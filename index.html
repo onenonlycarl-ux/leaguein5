@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>League In 5 | 32 Teams. 5 Stories. One League.</title>
+  <meta name="description" content="The daily NFL briefing: five stories for every one of the 32 teams, every morning.">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/logo-96.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta property="og:image" content="https://leaguein5.com/logo-512.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a href="/" class="brand" data-link>
+      <img class="brand-logo" src="/logo-96.png" alt="" width="44" height="44">
+      <span class="brand-text">
+        <span class="brand-word">League In <b>5</b></span>
+        <span class="brand-tag">32 Teams · 5 Stories · One League</span>
+      </span>
+    </a>
+    <nav class="nav-links">
+      <a href="/#top5" data-link>Today</a>
+      <a href="/#afc" data-link>AFC</a>
+      <a href="/#nfc" data-link>NFC</a>
+    </nav>
+    <a class="btn btn-sm" href="/#newsletter" data-link>Subscribe</a>
+  </div>
+</header>
+
+<main id="app" aria-live="polite">
+  <div class="loading">Loading today's edition…</div>
+</main>
+
+<section class="cta" id="newsletter">
+  <div class="wrap cta-inner">
+    <div>
+      <p class="eyebrow eyebrow-light">The daily email · Free</p>
+      <h2>Your team. Five stories. Before your coffee's done.</h2>
+      <p class="cta-note">Join the list for the League In 5 newsletter. No spam, unsubscribe anytime.</p>
+    </div>
+    <form class="signup" novalidate>
+      <div class="signup-row">
+        <input type="email" name="email_address" placeholder="Your email address" aria-label="Email address" autocomplete="email" required>
+        <button class="btn" type="submit">Get the daily email</button>
+      </div>
+      <p class="signup-msg" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <span class="brand-word small">League In <b>5</b></span>
+    <span>Independent NFL coverage. Not affiliated with the NFL or any team.</span>
+    <span>© <span id="yr">2026</span> League In 5</span>
+  </div>
+</footer>
+
+<script src="/app.js"></script>
+</body>
+</html>
