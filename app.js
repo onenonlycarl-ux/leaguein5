@@ -99,6 +99,68 @@ function scheduleTable(abbr) {
   </table></div>`;
 }
 
+// ---- This Week page (/week, /week/7) ----
+function leagueGames() {
+  const games = [];
+  for (const [abbr, sc] of Object.entries(SCHEDULES?.teams || {})) {
+    for (const g of sc.games) {
+      if (!g.home) continue;                       // each game appears once, from the home team's side
+      games.push({week:g.week, date:g.date, home:abbr, away:g.opp, network:g.network, done:g.done,
+                  hs:g.us, as:g.them});
+    }
+  }
+  return games;
+}
+function currentWeek(games) {
+  const open = games.filter(g => !g.done).map(g => g.week);
+  return open.length ? Math.min(...open) : Math.max(...games.map(g => g.week));
+}
+function gameCard(g) {
+  const rec = a => STANDINGS?.teams?.[a] ? `<span class="g-rec">${recStr(STANDINGS.teams[a])}</span>` : "";
+  const row = (a, score, win) => `<a class="g-team${win ? " win" : ""}" href="/team/${slug(a)}" data-link style="${colorVars(a)}">
+      <i class="dot-c"></i><span class="g-name">${esc(teamName(a))}</span>${rec(a)}<b class="g-score">${g.done ? score : ""}</b></a>`;
+  const hw = g.done && g.hs > g.as, aw = g.done && g.as > g.hs;
+  return `<article class="game${g.done ? " final" : ""}">
+    ${row(g.away, g.as, aw)}${row(g.home, g.hs, hw)}
+    <div class="g-foot">${g.done ? "Final" : esc(fmtTime(g.date)) + " ET"}${g.network ? `<span>${esc(g.network)}</span>` : ""}</div>
+  </article>`;
+}
+function renderWeek(n) {
+  const games = leagueGames();
+  if (!games.length) return renderNotFound();
+  const weeks = [...new Set(games.map(g => g.week))].sort((a, b) => a - b);
+  const wk = weeks.includes(n) ? n : currentWeek(games);
+  document.title = `Week ${wk} NFL games | League In 5`;
+  const slate = games.filter(g => g.week === wk).sort((a, b) => a.date.localeCompare(b.date));
+  const days = [];
+  for (const g of slate) {
+    const d = fmtDay(g.date);
+    (days.find(x => x.d === d) || (days.push({d, list:[]}), days[days.length - 1])).list.push(g);
+  }
+  const playing = new Set(slate.flatMap(g => [g.home, g.away]));
+  const bye = allTeams().map(t => t.abbr).filter(a => !playing.has(a));
+  const prev = weeks.includes(wk - 1), next = weeks.includes(wk + 1);
+  app.innerHTML = `
+  <section class="team-hero week-hero" style="--c1:#0c0e11;--c2:#15181d">
+    <div class="wrap">
+      <a class="back" href="/" data-link>← All 32 teams</a>
+      <div class="crumb">${esc(DATA.week === `Week ${wk}` ? "This week" : "NFL schedule")}</div>
+      <h1>Week ${wk}</h1>
+      <div class="sub"><span class="pill">${slate.length} games</span>${bye.length ? `<span>${bye.length} teams on bye</span>` : ""}</div>
+    </div>
+  </section>
+  <div class="wrap">
+    <div class="week-nav">
+      ${prev ? `<a class="btn btn-sm" href="/week/${wk - 1}" data-link>← Week ${wk - 1}</a>` : "<span></span>"}
+      ${next ? `<a class="btn btn-sm" href="/week/${wk + 1}" data-link>Week ${wk + 1} →</a>` : "<span></span>"}
+    </div>
+    ${days.map(x => `<h2 class="day-h">${esc(x.d)}</h2><div class="games">${x.list.map(gameCard).join("")}</div>`).join("")}
+    ${bye.length ? `<h2 class="day-h">On bye</h2><div class="picker-row bye-row">${bye.map(a => `<a class="chip chip-dark" href="/team/${slug(a)}" data-link><i style="background:${(COLORS[a]||["#333"])[0]}">${esc(a)}</i>${esc(nick(a))}</a>`).join("")}</div>` : ""}
+    ${updatedNote()}${sampleNote()}
+  </div>`;
+  window.scrollTo(0, 0);
+}
+
 function renderHome() {
   document.title = "League In 5 | 32 Teams. 5 Stories. One League.";
   const teams = allTeams();
@@ -234,6 +296,8 @@ function renderWelcome() {
 
 function route() {
   if (/^\/welcome\/?$/.test(location.pathname)) return renderWelcome();
+  const w = location.pathname.match(/^\/week(?:\/(\d+))?\/?$/);
+  if (w) return renderWeek(w[1] ? +w[1] : 0);
   const m = location.pathname.match(/^\/team\/([a-z]+)\/?$/);
   m ? renderTeam(m[1]) : renderHome();
 }

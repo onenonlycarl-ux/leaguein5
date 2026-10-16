@@ -197,3 +197,20 @@ table.stand,table.sched{width:100%;border-collapse:collapse;font-size:15px;font-
 .data-note{margin-top:10px;font-size:13px;color:var(--muted)}
 .data-note.sample{color:#c62828;font-weight:700}
 @media (max-width:640px){.hide-sm{display:none}.sched .full{display:none}.sched .short{display:inline}.stand,.sched{font-size:14px}.stand th,.stand td,.sched th,.sched td{padding:10px 8px}.stand .n,.sched .n{width:32px}.stand td.l a{gap:8px}}
+
+/* this week */
+.week-nav{display:flex;justify-content:space-between;margin:28px 0 0}
+.day-h{font-family:var(--serif);font-size:24px;font-weight:700;margin:36px 0 14px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.games{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.game{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden;min-width:0}
+.g-team{display:flex;align-items:center;gap:10px;padding:13px 16px;border-bottom:1px solid var(--line);font-weight:600}
+.g-team:hover .g-name{color:var(--orange-dk)}
+.g-team .g-name{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.g-rec{color:var(--muted);font-size:13px;font-variant-numeric:tabular-nums}
+.g-score{min-width:28px;text-align:right;font-size:18px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.g-team.win{font-weight:800}.g-team.win .g-score{color:var(--ink)}
+.g-foot{display:flex;justify-content:space-between;gap:12px;padding:10px 16px;font-size:13px;font-weight:700;color:var(--muted);background:rgba(0,0,0,.025)}
+.final .g-foot{letter-spacing:.1em;text-transform:uppercase;font-size:12px}
+.bye-row{flex-wrap:wrap;overflow:visible}
+.chip-dark{background:var(--card);border-color:var(--line);color:var(--ink);backdrop-filter:none}
+.chip-dark:hover{background:#fff;border-color:var(--orange)}
