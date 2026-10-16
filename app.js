@@ -50,6 +50,55 @@ function teamCard(t) {
   </a>`;
 }
 
+// ---- standings and schedules (data/*.json, refreshed by GitHub Actions) ----
+let STANDINGS = null, SCHEDULES = null;
+const recStr = s => `${s.w}-${s.l}${s.t ? "-" + s.t : ""}`;
+const pctOf = s => { const g = s.w + s.l + s.t; return g ? (s.w + s.t / 2) / g : 0; };
+const pctStr = s => { const p = pctOf(s); return p === 1 ? "1.000" : p.toFixed(3).replace(/^0/, ""); };
+const byRank = (a, b) => (pctOf(b[1]) - pctOf(a[1])) || ((b[1].pf - b[1].pa) - (a[1].pf - a[1].pa));
+const teamName = abbr => { const t = allTeams().find(x => x.abbr === abbr); return t ? title(t.name) : abbr; };
+const nick = abbr => teamName(abbr).split(" ").slice(-1)[0];
+const sampleNote = () => (STANDINGS?.sample || SCHEDULES?.sample) ? `<p class="data-note sample">Sample numbers for layout preview only.</p>` : "";
+const updatedNote = () => {
+  const u = STANDINGS?.updated; if (!u) return "";
+  const d = new Date(u);
+  return `<p class="data-note">Updated ${d.toLocaleString("en-US", {month:"short", day:"numeric", hour:"numeric", minute:"2-digit", timeZone:"America/New_York"})} ET</p>`;
+};
+
+function standingsTable(abbrs, {seeds=false, cut=0, highlight=""} = {}) {
+  if (!STANDINGS) return "";
+  let rows = abbrs.filter(a => STANDINGS.teams[a]).map(a => [a, STANDINGS.teams[a]]);
+  if (seeds && rows.every(r => r[1].seed)) rows.sort((a, b) => a[1].seed - b[1].seed); else rows.sort(byRank);
+  if (!rows.length) return "";
+  return `<div class="table-wrap"><table class="stand">
+    <thead><tr>${seeds ? "<th class=\"n\">#</th>" : ""}<th class="l">Team</th><th>W-L-T</th><th>PCT</th><th class="hide-sm">PF</th><th class="hide-sm">PA</th><th class="hide-sm">Diff</th><th class="hide-sm">Strk</th></tr></thead>
+    <tbody>${rows.map(([a, s], i) => `<tr class="${a === highlight ? "me" : ""}${cut && i === cut ? " cut" : ""}" style="${colorVars(a)}">
+      ${seeds ? `<td class="n">${i + 1}</td>` : ""}<td class="l"><a href="/team/${slug(a)}" data-link><i class="dot-c"></i>${esc(teamName(a))}</a></td>
+      <td>${recStr(s)}</td><td>${pctStr(s)}</td><td class="hide-sm">${s.pf}</td><td class="hide-sm">${s.pa}</td><td class="hide-sm">${s.pf - s.pa > 0 ? "+" : ""}${s.pf - s.pa}</td><td class="hide-sm">${esc(s.streak)}</td></tr>`).join("")}</tbody>
+  </table></div>`;
+}
+
+const fmtDay = iso => new Date(iso).toLocaleDateString("en-US", {weekday:"short", month:"short", day:"numeric", timeZone:"America/New_York"});
+const fmtTime = iso => new Date(iso).toLocaleTimeString("en-US", {hour:"numeric", minute:"2-digit", timeZone:"America/New_York"});
+
+function scheduleTable(abbr) {
+  const sc = SCHEDULES?.teams?.[abbr];
+  if (!sc) return "";
+  const rows = [...sc.games.map(g => ({week:g.week, g})), ...sc.bye.map(w => ({week:w, bye:true}))].sort((a, b) => a.week - b.week);
+  const next = sc.games.find(g => !g.done);
+  return `<div class="table-wrap"><table class="sched">
+    <thead><tr><th class="n">Wk</th><th class="l">Date</th><th class="l">Opponent</th><th class="l"><span class="full">Result / Time</span><span class="short">Result</span></th><th class="hide-sm l">TV</th></tr></thead>
+    <tbody>${rows.map(r => {
+      if (r.bye) return `<tr class="bye"><td class="n">${r.week}</td><td class="l" colspan="4">Bye week</td></tr>`;
+      const g = r.g;
+      const res = g.done ? `<b class="res ${g.result}">${g.result}</b> ${g.us}-${g.them}` : `${esc(fmtTime(g.date))}<span class="full"> ET</span>`;
+      return `<tr class="${g === next ? "next" : ""}${g.done ? " done" : ""}"><td class="n">${r.week}</td><td class="l"><span class="full">${esc(fmtDay(g.date))}</span><span class="short">${esc(fmtDay(g.date).replace(/^\w+, /, ""))}</span></td>
+        <td class="l"><span class="at">${g.home ? "vs" : "@"}</span> <a href="/team/${slug(g.opp)}" data-link><span class="full">${esc(teamName(g.opp))}</span><span class="short">${esc(nick(g.opp))}</span></a>${g === next ? ` <span class="next-tag">Next</span>` : ""}</td>
+        <td class="l">${res}</td><td class="hide-sm l">${esc(g.network)}</td></tr>`;
+    }).join("")}</tbody>
+  </table></div>`;
+}
+
 function renderHome() {
   document.title = "League In 5 | 32 Teams. 5 Stories. One League.";
   const teams = allTeams();
@@ -92,11 +141,17 @@ function renderHome() {
 
   ${confs.map(conf => `
     <div class="wrap" id="${/american/i.test(conf) ? "afc" : "nfc"}"><h2 class="conf-title">${esc(title(conf))}</h2></div>
+    ${STANDINGS ? `<section class="block"><div class="wrap">
+      <div class="sec-head"><div><p class="eyebrow">Playoff picture</p><h2>${/american/i.test(conf) ? "AFC" : "NFC"} standings</h2></div></div>
+      ${standingsTable(DATA.divisions.filter(d => d.conf === conf).flatMap(d => d.teams.map(t => t.abbr)), {seeds:true, cut:7})}
+      ${updatedNote()}${sampleNote()}
+    </div></section>` : ""}
     ${DATA.divisions.filter(d => d.conf === conf).map(d => `
     <section class="block">
       <div class="wrap">
         <div class="sec-head"><div><p class="eyebrow">${d.teams.reduce((n,t)=>n+t.stories.length,0)} stories</p><h2>${esc(d.name)}</h2></div></div>
         <div class="row">${d.teams.map(teamCard).join("")}</div>
+        ${STANDINGS ? `<h3 class="sub-h">${esc(d.name)} standings</h3>${standingsTable(d.teams.map(t => t.abbr))}` : ""}
       </div>
     </section>`).join("")}
   `).join("")}`;
@@ -128,6 +183,14 @@ function renderTeam(abbr) {
       </article>`).join("")}
     </div>
   </div>
+  ${SCHEDULES?.teams?.[t.abbr] ? `<section class="block"><div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">2026 season</p><h2>${esc(title(t.name))} schedule</h2></div></div>
+    ${scheduleTable(t.abbr)}${updatedNote()}${sampleNote()}
+  </div></section>` : ""}
+  ${STANDINGS ? `<section class="block"><div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Standings</p><h2>${esc(t.division)}</h2></div></div>
+    ${standingsTable([t.abbr, ...rivals.map(x => x.abbr)], {highlight:t.abbr})}
+  </div></section>` : ""}
   <section class="block">
     <div class="wrap">
       <div class="sec-head"><div><p class="eyebrow">Around the division</p><h2>More from the ${esc(t.division)}</h2></div><a class="see-all" href="/" data-link>All teams →</a></div>
@@ -218,7 +281,12 @@ document.addEventListener("click", e => {
 window.addEventListener("popstate", route);
 document.getElementById("yr").textContent = new Date().getFullYear();
 
-fetch("/stories.json", {cache:"no-cache"})
-  .then(r => r.json())
-  .then(d => { DATA = d; route(); })
+// Standings and schedules are optional: if either file is missing the page still renders without them.
+const optional = path => fetch(path, {cache:"no-cache"}).then(r => r.ok ? r.json() : null).catch(() => null);
+Promise.all([
+  fetch("/stories.json", {cache:"no-cache"}).then(r => r.json()),
+  optional("/data/standings.json"),
+  optional("/data/schedules.json")
+])
+  .then(([d, st, sc]) => { DATA = d; STANDINGS = st; SCHEDULES = sc; route(); })
   .catch(() => { app.innerHTML = `<div class="loading">Today's edition couldn't load. Please refresh.</div>`; });

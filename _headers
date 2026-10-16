@@ -1,2 +1,5 @@
 /stories.json
   Cache-Control: no-cache
+
+/data/*
+  Cache-Control: no-cache

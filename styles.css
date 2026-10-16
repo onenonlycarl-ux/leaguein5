@@ -169,3 +169,31 @@ section.block{padding:72px 0 8px}
   .tips{grid-template-columns:1fr}
   .footer-inner{flex-direction:column;align-items:flex-start;padding:24px 16px}
 }
+
+/* standings and schedules */
+.sub-h{font-family:var(--serif);font-size:22px;font-weight:700;margin:36px 0 12px}
+.table-wrap{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+table.stand,table.sched{width:100%;border-collapse:collapse;font-size:15px;font-variant-numeric:tabular-nums}
+.stand th,.sched th{font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-align:right;padding:12px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
+.stand td,.sched td{text-align:right;padding:11px 14px;border-bottom:1px solid var(--line);white-space:nowrap}
+.stand tr:last-child td,.sched tr:last-child td{border-bottom:0}
+.stand .l,.sched .l{text-align:left}
+.stand .n,.sched .n{text-align:center;width:44px;color:var(--muted);font-weight:700}
+.stand td.l a{display:inline-flex;align-items:center;gap:10px;font-weight:700}
+.stand td.l a:hover,.sched a:hover{color:var(--orange-dk)}
+.dot-c{width:10px;height:10px;border-radius:50%;background:var(--c1,#333);flex:0 0 auto}
+.stand tr.me td{background:rgba(255,106,26,.08)}
+.stand tr.cut td{border-top:2px dashed var(--orange)}
+.sched .at{color:var(--muted);font-weight:600;display:inline-block;min-width:20px}
+.sched a{font-weight:700}
+.sched tr.done td{color:var(--muted)}
+.sched tr.done a{color:var(--ink)}
+.sched tr.bye td{color:var(--muted);font-style:italic;background:rgba(0,0,0,.025)}
+.sched tr.next td{background:rgba(255,106,26,.1);font-weight:700}
+.next-tag{display:inline-block;margin-left:8px;font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;background:var(--orange);color:#fff;padding:3px 8px;border-radius:999px;vertical-align:middle}
+.res{display:inline-block;min-width:18px;text-align:center;font-weight:800}
+.res.W{color:#1a7f37}.res.L{color:#c62828}.res.T{color:var(--muted)}
+.short{display:none}
+.data-note{margin-top:10px;font-size:13px;color:var(--muted)}
+.data-note.sample{color:#c62828;font-weight:700}
+@media (max-width:640px){.hide-sm{display:none}.sched .full{display:none}.sched .short{display:inline}.stand,.sched{font-size:14px}.stand th,.stand td,.sched th,.sched td{padding:10px 8px}.stand .n,.sched .n{width:32px}.stand td.l a{gap:8px}}
