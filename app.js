@@ -176,6 +176,7 @@ function renderHome() {
       <div class="hero-actions">
         <a class="btn" href="/#newsletter" data-link>Get the daily email →</a>
         <a class="btn btn-ghost" href="#top5">Read today's top stories</a>
+        ${SCHEDULES ? `<a class="btn btn-ghost" href="/week" data-link>This week's games</a>` : ""}
       </div>
       <div class="picker">
         <div class="picker-label">Jump to your team</div>
