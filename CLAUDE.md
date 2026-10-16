@@ -10,3 +10,6 @@ or styles.css unless Carl asks for a design change.
 `data/standings.json` and `data/schedules.json` are refreshed by the GitHub Actions job in
 `.github/workflows/refresh-data.yml` (script: `pipeline/fetch_data.py`). The daily story run
 never edits them.
+
+When you change app.js or styles.css, also bump the `?v=` number on their tags in index.html so
+browsers fetch the new copy instead of an old cached one.
