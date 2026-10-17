@@ -12,7 +12,7 @@ from GitHub within a minute or two. Never edit `index.html`, `app.js` or
 2. Write one file per division into `pipeline/work/<division-slug>.json`
    (`afc-east.json`, `afc-north.json`, ... `nfc-west.json`). One researcher per
    division, all eight running in parallel, works best.
-3. Pick the four top stories of the day and write the intro.
+3. Pick the five top stories of the day (one per label below) and write the intro.
 4. Run `python3 pipeline/build.py` to assemble `stories.json`.
 5. Run `python3 pipeline/validate.py`. Fix every problem it lists, then rerun.
 6. Commit `stories.json` with the message `Edition YYYY-MM-DD` and push to `main`.
@@ -27,6 +27,7 @@ from GitHub within a minute or two. Never edit `index.html`, `app.js` or
   "top": [
     {"label": "Biggest Story", "headline": "...", "dek": "2 to 3 sentences", "source": {"name": "NFL.com", "url": "https://..."}},
     {"label": "Injury Watch", "...": "..."},
+    {"label": "Player Spotlight", "...": "..."},
     {"label": "Stat of the Day", "...": "..."},
     {"label": "What's Next", "...": "..."}
   ],

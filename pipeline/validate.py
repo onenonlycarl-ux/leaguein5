@@ -65,8 +65,11 @@ if len(str(data.get("intro", ""))) < 80:
     problems.append("intro is missing or too short")
 
 top = data.get("top", [])
-if len(top) != 4:
-    problems.append(f"top should have 4 stories, has {len(top)}")
+TOP_LABELS = ["Biggest Story", "Injury Watch", "Player Spotlight", "Stat of the Day", "What's Next"]
+if len(top) != 5:
+    problems.append(f"top should have 5 stories, has {len(top)}")
+elif [s.get("label") for s in top] != TOP_LABELS:
+    problems.append(f"top labels must be {TOP_LABELS}, got {[s.get('label') for s in top]}")
 for i, s in enumerate(top):
     for f in ("label", "headline", "dek"):
         if not s.get(f):
