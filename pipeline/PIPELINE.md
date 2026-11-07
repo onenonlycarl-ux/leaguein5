@@ -16,6 +16,8 @@ from GitHub within a minute or two. Never edit `index.html`, `app.js` or
 4. Run `python3 pipeline/build.py` to assemble `stories.json`.
 5. Run `python3 pipeline/validate.py`. Fix every problem it lists, then rerun.
 6. Commit `stories.json` with the message `Edition YYYY-MM-DD` and push to `main`.
+7. Nothing else to do. The push triggers a GitHub Action (`prerender.yml`) that rebuilds the static
+   pages and sitemap and commits them a minute later. Do not run `prerender.mjs` as part of the daily run.
 
 ## stories.json shape
 

@@ -1,0 +1,50 @@
+name: Pre-render pages
+
+# Runs after a new daily edition (stories.json) or a site change is pushed.
+# It rebuilds the static HTML pages, sitemap.xml and robots.txt, then commits them.
+# See pipeline/prerender.mjs for what it does. It never edits stories.json or data/.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - stories.json
+      - index.html
+      - app.js
+      - styles.css
+      - pipeline/prerender.mjs
+  workflow_dispatch: {}      # also lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-build          # shared with refresh-data.yml so the two never push at the same time
+  cancel-in-progress: false
+
+jobs:
+  prerender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+      - name: Install pre-render tools
+        run: npm --prefix pipeline ci
+      - name: Pre-render pages
+        run: node pipeline/prerender.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "league-in-5-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html team/ week.html week/ sitemap.xml robots.txt
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Pre-render pages $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
