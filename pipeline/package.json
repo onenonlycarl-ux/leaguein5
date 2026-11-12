@@ -1,0 +1,9 @@
+{
+  "name": "leaguein5-pipeline",
+  "private": true,
+  "type": "module",
+  "description": "Build-time tools for leaguein5.com (static page pre-rendering). Not part of the site itself.",
+  "dependencies": {
+    "jsdom": "25.0.1"
+  }
+}

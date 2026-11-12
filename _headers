@@ -12,3 +12,18 @@
   Cache-Control: no-cache
 /styles.css
   Cache-Control: no-cache
+
+/team/*
+  Cache-Control: no-cache
+
+/week
+  Cache-Control: no-cache
+
+/week/*
+  Cache-Control: no-cache
+
+/sitemap.xml
+  Cache-Control: no-cache
+
+/og/*
+  Cache-Control: public, max-age=86400

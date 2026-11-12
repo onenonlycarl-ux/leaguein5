@@ -130,7 +130,7 @@ function renderWeek(n) {
   if (!games.length) return renderNotFound();
   const weeks = [...new Set(games.map(g => g.week))].sort((a, b) => a - b);
   const wk = weeks.includes(n) ? n : currentWeek(games);
-  document.title = `Week ${wk} NFL games | League In 5`;
+  document.title = `NFL Week ${wk} Schedule, Games & Scores | League In 5`;
   const slate = games.filter(g => g.week === wk).sort((a, b) => a.date.localeCompare(b.date));
   const days = [];
   for (const g of slate) {
@@ -226,7 +226,7 @@ function renderHome() {
 function renderTeam(abbr) {
   const t = allTeams().find(x => slug(x.abbr) === abbr);
   if (!t) return renderNotFound();
-  document.title = `${title(t.name)} | League In 5`;
+  document.title = `${title(t.name)} News Today: 5 Stories | League In 5`;
   const rivals = DATA.divisions.find(d => d.name === t.division).teams.filter(x => x.abbr !== t.abbr);
 
   app.innerHTML = `
