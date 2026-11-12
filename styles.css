@@ -216,3 +216,18 @@ table.stand,table.sched{width:100%;border-collapse:collapse;font-size:15px;font-
 .bye-row{flex-wrap:wrap;overflow:visible}
 .chip-dark{background:var(--card);border-color:var(--line);color:var(--ink);backdrop-filter:none}
 .chip-dark:hover{background:#fff;border-color:var(--orange)}
+
+/* signup: team picker + hero form */
+.signup select{flex:0 1 220px;min-width:0;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);border-radius:999px;color:#fff;font:inherit;font-size:15px;padding:10px 14px;outline:0;cursor:pointer}
+.signup select option{color:#111;background:#fff}
+.signup select:focus{border-color:var(--orange)}
+.hero-signup{flex:none;max-width:720px;margin-top:28px}
+.signup-lead{font-size:15px;font-weight:600;color:rgba(255,255,255,.85);margin-bottom:10px;padding-left:16px}
+.hero-signup .signup-row{background:rgba(12,14,17,.6);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.hero-signup.done .signup-lead{display:none}
+.hero-signup .signup-msg{padding-left:16px}
+.hero-signup + .hero-actions{margin-top:18px}
+@media (max-width:640px){
+  .signup select{flex:none;width:100%;border-radius:14px;padding:12px}
+  .signup-lead{padding-left:4px}
+}

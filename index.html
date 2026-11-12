@@ -29,7 +29,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/styles.css?v=20261107a">
+  <link rel="stylesheet" href="/styles.css?v=20261112a">
 </head>
 <body>
 
@@ -59,8 +59,16 @@
       <div class="edition"><span class="dot"></span>Thursday, November 12 · Week 10</div>
       <h1>32 Teams. 5 Stories.<br><span>One League.</span></h1>
       <p class="lede">Buffalo sits alone at 7-1 after a Monday night win in Minnesota, and Kansas City is waiting on word about Patrick Mahomes' throwing elbow. Giants and Commanders open Week 10 tonight on Prime Video, and the Saints and Panthers meet Sunday with first place in a four-way NFC South tie at stake. 160 stories across all 32 teams.</p>
+      <form class="signup hero-signup" id="join" novalidate="">
+        <p class="signup-lead">Get the daily email. Pick your team and we'll put it first.</p>
+        <div class="signup-row">
+          <input type="email" name="email_address" placeholder="Your email address" aria-label="Email address" autocomplete="email" required="">
+          <select name="team" class="team-select" aria-label="Your favorite team"><option value="">Your team (optional)</option><option value="ARI">Arizona Cardinals</option><option value="ATL">Atlanta Falcons</option><option value="BAL">Baltimore Ravens</option><option value="BUF">Buffalo Bills</option><option value="CAR">Carolina Panthers</option><option value="CHI">Chicago Bears</option><option value="CIN">Cincinnati Bengals</option><option value="CLE">Cleveland Browns</option><option value="DAL">Dallas Cowboys</option><option value="DEN">Denver Broncos</option><option value="DET">Detroit Lions</option><option value="GB">Green Bay Packers</option><option value="HOU">Houston Texans</option><option value="IND">Indianapolis Colts</option><option value="JAX">Jacksonville Jaguars</option><option value="KC">Kansas City Chiefs</option><option value="LV">Las Vegas Raiders</option><option value="LAC">Los Angeles Chargers</option><option value="LAR">Los Angeles Rams</option><option value="MIA">Miami Dolphins</option><option value="MIN">Minnesota Vikings</option><option value="NE">New England Patriots</option><option value="NO">New Orleans Saints</option><option value="NYG">New York Giants</option><option value="NYJ">New York Jets</option><option value="PHI">Philadelphia Eagles</option><option value="PIT">Pittsburgh Steelers</option><option value="SF">San Francisco 49ers</option><option value="SEA">Seattle Seahawks</option><option value="TB">Tampa Bay Buccaneers</option><option value="TEN">Tennessee Titans</option><option value="WAS">Washington Commanders</option></select>
+          <button class="btn" type="submit">Get the daily email</button>
+        </div>
+        <p class="signup-msg" role="status" aria-live="polite"></p>
+      </form>
       <div class="hero-actions">
-        <a class="btn" href="/#newsletter" data-link="">Get the daily email →</a>
         <a class="btn btn-ghost" href="#top5">Read today's top stories</a>
         <a class="btn btn-ghost" href="/week" data-link="">This week's games</a>
       </div>
@@ -575,6 +583,7 @@
     <form class="signup" novalidate>
       <div class="signup-row">
         <input type="email" name="email_address" placeholder="Your email address" aria-label="Email address" autocomplete="email" required>
+        <select name="team" class="team-select" data-fill aria-label="Your favorite team"><option value="">Your team (optional)</option></select>
         <button class="btn" type="submit">Get the daily email</button>
       </div>
       <p class="signup-msg" role="status" aria-live="polite"></p>
@@ -590,6 +599,6 @@
   </div>
 </footer>
 
-<script src="/app.js?v=20261107a"></script>
+<script src="/app.js?v=20261112a"></script>
 </body>
 </html>

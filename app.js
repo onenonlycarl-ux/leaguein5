@@ -173,8 +173,16 @@ function renderHome() {
       <div class="edition"><span class="dot"></span>${esc(editionLabel() || "Today's edition")}</div>
       <h1>32 Teams. 5 Stories.<br><span>One League.</span></h1>
       <p class="lede">${esc(DATA.intro || "Every NFL team, five stories each, every morning.")}</p>
+      <form class="signup hero-signup" id="join" novalidate>
+        <p class="signup-lead">Get the daily email. Pick your team and we'll put it first.</p>
+        <div class="signup-row">
+          <input type="email" name="email_address" placeholder="Your email address" aria-label="Email address" autocomplete="email" required>
+          <select name="team" class="team-select" aria-label="Your favorite team">${teamOptions()}</select>
+          <button class="btn" type="submit">Get the daily email</button>
+        </div>
+        <p class="signup-msg" role="status" aria-live="polite"></p>
+      </form>
       <div class="hero-actions">
-        <a class="btn" href="/#newsletter" data-link>Get the daily email →</a>
         <a class="btn btn-ghost" href="#top5">Read today's top stories</a>
         ${SCHEDULES ? `<a class="btn btn-ghost" href="/week" data-link>This week's games</a>` : ""}
       </div>
@@ -267,8 +275,17 @@ function renderNotFound() {
   app.innerHTML = `<section class="block"><div class="wrap"><h2 class="conf-title">Team not found</h2><p style="margin-top:16px"><a class="see-all" href="/" data-link>← Back to all 32 teams</a></p></div></section>`;
 }
 
+// Dropdown of all 32 teams for the signup forms (value = team abbreviation).
+function teamOptions() {
+  const opts = allTeams().slice().sort((a, b) => title(a.name).localeCompare(title(b.name)))
+    .map(t => `<option value="${esc(t.abbr)}">${esc(title(t.name))}</option>`).join("");
+  return `<option value="">Your team (optional)</option>${opts}`;
+}
+const savedTeam = () => { try { return localStorage.getItem("li5team") || ""; } catch (e) { return ""; } };
+
 function renderWelcome() {
   document.title = "You're in | League In 5";
+  const mine = allTeams().find(t => t.abbr === savedTeam());
   let robots = document.querySelector('meta[name="robots"]');
   if (!robots) { robots = document.createElement("meta"); robots.name = "robots"; document.head.appendChild(robots); }
   robots.content = "noindex";
@@ -277,9 +294,9 @@ function renderWelcome() {
     <div class="wrap hero-inner">
       <div class="edition"><span class="dot"></span>Subscription confirmed</div>
       <h1>You're in.<br><span>Welcome to League In 5.</span></h1>
-      <p class="lede">Every NFL team, five stories each, delivered to your inbox. The daily email is launching soon, and you're on the list for the very first edition.</p>
+      <p class="lede">Every NFL team, five stories each. We're getting the daily email ready and you're on the list, so you'll hear from us when it starts. Until then, every team page refreshes each morning.</p>
       <div class="hero-actions">
-        <a class="btn" href="/" data-link>Read today's 160 stories →</a>
+        ${mine ? `<a class="btn" href="/team/${slug(mine.abbr)}" data-link>Open the ${esc(title(mine.name))} page →</a><a class="btn btn-ghost" href="/" data-link>Read today's stories</a>` : `<a class="btn" href="/" data-link>Read today's stories →</a>`}
       </div>
     </div>
   </section>
@@ -315,10 +332,17 @@ document.addEventListener("submit", async e => {
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { msg.textContent = "Please enter a valid email address."; msg.className = "signup-msg err"; return; }
   btn.disabled = true; btn.textContent = "Signing you up…";
   try {
-    const body = new FormData(); body.append("email_address", email);
-    const r = await fetch(KIT_FORM, { method: "POST", body, headers: { Accept: "application/json" } });
-    const j = await r.json().catch(() => ({}));
-    if (!r.ok || (j.status && j.status !== "success")) throw new Error(j.errors?.messages?.join(" ") || "error");
+    const team = form.querySelector("select[name=team]")?.value || "";
+    const send = async withTeam => {
+      const body = new FormData(); body.append("email_address", email);
+      if (withTeam && team) body.append("fields[favorite_team]", team);
+      const r = await fetch(KIT_FORM, { method: "POST", body, headers: { Accept: "application/json" } });
+      const j = await r.json().catch(() => ({}));
+      if (!r.ok || (j.status && j.status !== "success")) throw new Error(j.errors?.messages?.join(" ") || "error");
+    };
+    // If the form can't take the team field, still sign the person up without it.
+    try { await send(true); } catch (e) { if (!team) throw e; await send(false); }
+    if (team) { try { localStorage.setItem("li5team", team); } catch (e) {} }
     form.classList.add("done");
     msg.textContent = "Almost there! Check your inbox and tap the button in our email to confirm.";
     msg.className = "signup-msg ok";
@@ -353,5 +377,9 @@ Promise.all([
   optional("/data/standings.json"),
   optional("/data/schedules.json")
 ])
-  .then(([d, st, sc]) => { DATA = d; STANDINGS = st; SCHEDULES = sc; route(); })
+  .then(([d, st, sc]) => {
+    DATA = d; STANDINGS = st; SCHEDULES = sc;
+    document.querySelectorAll("select.team-select[data-fill]").forEach(s => { s.innerHTML = teamOptions(); });
+    route();
+  })
   .catch(() => { app.innerHTML = `<div class="loading">Today's edition couldn't load. Please refresh.</div>`; });
