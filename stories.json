@@ -1,51 +1,51 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "week": "Week 12",
- "intro": "Caleb Williams and the Bears beat the Lions 39-35 on a touchdown with three seconds left, and the Bills took the Chiefs 13-10 on a 57-yard field goal as time expired. Drake Maye's broken fibula leaves New England with Tommy DeVito, and Denver visits Pittsburgh today in the Black Friday game. 160 stories across all 32 teams.",
+ "intro": "The Steelers buried the Broncos 27-5 on Black Friday, and the Eagles lost Saquon Barkley and Cooper DeJean to Thanksgiving injuries. Brock Purdy sits Sunday, so Mac Jones starts for the 9-1 49ers against Seattle. 160 stories across all 32 teams.",
  "top": [
   {
    "label": "Biggest Story",
-   "headline": "Bears beat the Lions 39-35 on Odunze's touchdown with three seconds left",
-   "dek": "Chicago won on Thanksgiving in Detroit and moved to 9-2, alone in first place in the NFC North. Caleb Williams threw for 345 yards and two scores in the win.",
+   "headline": "Steelers rout Broncos 27-5 on Black Friday",
+   "dek": "T.J. Watt scored on a fumble recovery in the end zone and Jalen Ramsey returned an interception 36 yards for a touchdown. Pittsburgh moved to 7-4 and 5-0 at home, a half-game behind Cincinnati in the AFC North. Bo Nix finished with a 44.7 passer rating.",
    "source": {
-    "name": "Sky Sports",
-    "url": "https://www.skysports.com/nfl/news/13616878/nfl-chicago-bears-stun-detroit-lions-on-thanksgiving-with-game-winning-touchdown-in-final-three-seconds"
+    "name": "Steelers.com",
+    "url": "https://www.steelers.com/news/steelers-top-broncos-27-5-at-home"
    }
   },
   {
    "label": "Injury Watch",
-   "headline": "Drake Maye's fractured fibula puts Tommy DeVito in charge in New England",
-   "dek": "The Patriots quarterback is expected to miss at least six weeks. New England is sticking with DeVito as its starter, beginning Sunday at the Chargers.",
+   "headline": "Barkley, DeJean and Goedert all leave Eagles' Thanksgiving win hurt",
+   "dek": "Saquon Barkley left with a stinger and did not return. Cooper DeJean was ruled out with a concussion, and Dallas Goedert wore a sling after a shoulder injury.",
    "source": {
-    "name": "Boston.com",
-    "url": "https://www.boston.com/sports/new-england-patriots/2026/11/23/tommys-our-starter-patriots-are-sticking-with-tommy-devito-following-drake-mayes-injury/"
+    "name": "Philadelphia Inquirer",
+    "url": "https://www.inquirer.com/eagles/cowboys-thanksgiving-comeback-joe-milton-jake-elliott-nick-sirianni-20261126.html"
    }
   },
   {
    "label": "Player Spotlight",
-   "headline": "Jahmyr Gibbs runs for 205 yards and three touchdowns in a Lions loss",
-   "dek": "Detroit's back piled up the yards against Chicago on Thanksgiving and still came up four points short. It was the kind of day that gets noticed in the record books even in a defeat.",
+   "headline": "James Cook carries Buffalo with 117 yards on 32 carries",
+   "dek": "With Josh Allen struggling in the weather, Cook ran 32 times and scored the Bills' only touchdown on a 5-yard run. Buffalo needed two late Tyler Bass field goals to beat Kansas City.",
    "source": {
-    "name": "Newsweek",
-    "url": "https://www.newsweek.com/sports/nfl/lions-jahmyr-gibbs-breaks-barry-sanders-record-vs-bears-on-thanksgiving-12771918"
+    "name": "Yahoo Sports",
+    "url": "https://sports.yahoo.com/nfl/articles/tyler-bass-hits-walk-off-045159081.html"
    }
   },
   {
    "label": "Stat of the Day",
-   "headline": "57: yards on Tyler Bass's field goal that beat the Chiefs as time expired",
-   "dek": "Buffalo won 13-10 on Thursday night and moved to 10-1. Josh Allen threw for just 81 yards, and the Bills still got the win.",
+   "headline": "44.7: Bo Nix's passer rating in Pittsburgh, the worst of his career",
+   "dek": "Nix went 22 of 40 for 169 yards with a lost fumble and two interceptions. Sean Payton said the one-dimensional offense was more on him than on his quarterback.",
    "source": {
-    "name": "Yahoo Sports",
-    "url": "https://sports.yahoo.com/nfl/articles/bills-tyler-bass-drills-57-053818655.html"
+    "name": "The Gazette",
+    "url": "https://gazette.com/2026/11/27/broncos-steelers-bo-nix-turnovers/"
    }
   },
   {
    "label": "What's Next",
-   "headline": "Broncos visit the Steelers today with Mason Rudolph starting",
-   "dek": "Denver plays at Pittsburgh at 3 p.m. ET on Prime Video without suspended running back J.K. Dobbins. A win keeps the Broncos in the hunt for the AFC's No. 2 seed.",
+   "headline": "Seahawks visit the 49ers Sunday with Mac Jones starting for Purdy",
+   "dek": "Brock Purdy has a mid-ankle sprain and is not expected to need surgery. Kickoff is 4:25 p.m. ET on FOX as San Francisco, 9-1 and the NFC's top seed, chases a season sweep of Seattle.",
    "source": {
-    "name": "Steelers Depot",
-    "url": "https://steelersdepot.com/2026/11/steelers-vs-broncos-2026-week-twelve-game-time-line-weather-injuries-tv-radio-schedule/"
+    "name": "NFL.com",
+    "url": "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start"
    }
   }
  ],
@@ -58,51 +58,51 @@
      "abbr": "BUF",
      "name": "Buffalo Bills",
      "record": "10-1",
-     "headline": "Bass boots Bills past Chiefs at the horn",
+     "headline": "Allen vows to be better after ugly Thanksgiving",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Bass hits a 57-yarder to beat Kansas City 13-10",
-       "summary": "Tyler Bass kicked a 57-yard field goal as time expired on Thanksgiving night to give Buffalo a 13-10 win over the Chiefs. A blocked punt put the Bills in range after an offense that stalled all night. Buffalo is 10-1 and has won seven straight.",
+       "text": "Allen owns a rough night in a 13-10 win over Kansas City",
+       "summary": "Josh Allen went 10 of 21 for 81 yards with two interceptions in the wind and rain, his second straight two-pick game. He told Buffalo fans he needs to be better and will be. The win was Buffalo's seventh in a row and keeps the Bills at 10-1 atop the AFC.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/bills-tyler-bass-drills-57-053818655.html"
+        "url": "https://sports.yahoo.com/nfl/articles/bills-josh-allen-makes-promise-062423540.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Kincaid plays through thumb and ankle injuries",
-       "summary": "Tight end Dalton Kincaid went into Thanksgiving night questionable with thumb and ankle injuries and was active after missing the win over Miami. Cornerback Christian Benford was inactive with a groin injury for the second straight game. I found no postgame injury report, so check Monday for updates before the Patriots game.",
+       "text": "Five Bills went into Thanksgiving questionable, none ruled out",
+       "summary": "Tight end Dalton Kincaid (thumb, ankle), linebacker Dorian Williams, guard O'Cyrus Torrence and tackle TJ Sanders were all limited in practice. Cornerback Christian Benford missed Monday's walkthrough, then moved up to limited. Right tackle Spencer Brown returned to full work on Wednesday.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/dalton-kincaid-active-christian-benford-000436538.html"
+        "url": "https://sports.yahoo.com/nfl/articles/bills-week-12-injury-report-171809947.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Tyler Bass wins it from 57 yards out",
-       "summary": "Bass made the kick from 57 yards with no time left. A blocked punt had shortened the field for a Bills offense that struggled all night, and Kansas City's punting problems handed Buffalo its best field position.",
+       "text": "James Cook carries Buffalo with 117 yards on 32 carries",
+       "summary": "With Allen struggling through the weather, Cook took the offense on his back. He ran 32 times for 117 yards and scored the Bills' only touchdown, a 5-yard run in the second quarter. Khalil Shakir caught three passes for 33 yards.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/tyler-bass-hits-walk-off-045159081.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "81: Josh Allen's passing yards on Thanksgiving",
-       "summary": "Allen finished 10 of 21 for 81 yards against Kansas City, and the Bills still won. Two of his drives started in Chiefs territory and ended without points. Four days earlier he threw for 304 yards against Miami.",
+       "text": "18.3: Allen's passer rating, second-lowest of his career",
+       "summary": "Allen's rating against the Chiefs was the second-worst of his regular-season career. He also took two sacks, but he ran seven times for 43 yards. The Bills still won on a 54-yard Tyler Bass field goal to tie it and a 57-yarder as time expired.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/tyler-bass-hits-walk-off-045159081.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Bills visit the Patriots on Dec. 6",
-       "summary": "Buffalo is done for Week 12 and next plays at New England on Sunday, Dec. 6 at 4:25 p.m. ET on CBS. The Patriots will likely still be without quarterback Drake Maye. Watch whether Allen's offense fixes its red zone trouble.",
+       "text": "Bills at Patriots, Dec. 6 at 4:25 p.m. ET on CBS",
+       "summary": "Buffalo's next game is a divisional trip to New England, with the Patriots coming off a Sunday game at the Chargers. The Bills have a one-game lead on the rest of the AFC for the top seed. Watch whether Allen's accuracy returns in better conditions.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/tyler-bass-hits-walk-off-045159081.html"
        }
       }
      ]
@@ -111,51 +111,51 @@
      "abbr": "MIA",
      "name": "Miami Dolphins",
      "record": "1-9",
-     "headline": "Youngest roster hits the rookie wall",
+     "headline": "Dolphins down to two QBs for Jets game",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Miami leans on rookies as the season runs long",
-       "summary": "The Dolphins own the NFL's youngest roster and could play as many as 14 rookies against the Jets. Coach Jeff Hafley says he is watching for the rookie wall, since many of these players have not stopped since their college seasons ended. Miami is 1-9.",
+       "text": "Dolphins carry only two quarterbacks into Jets game",
+       "summary": "Kyle McCord and Brady Cook are the only quarterbacks on Miami's roster, and the practice squad has none. Malik Willis has missed three straight games on injured reserve. Coach Jeff Hafley would not say who plays if both are hurt, and receiver Malik Washington is the likely emergency option.",
        "source": {
-        "name": "WSVN 7News",
-        "url": "https://wsvn.com/sports/miami-dolphins/nfl-jets-at-dolphins/"
+        "name": "News Minimalist (via SI)",
+        "url": "https://www.newsminimalist.com/articles/dolphins-enter-jets-game-with-only-two-quarterbacks-on-roster-6a1f303c"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Willis stays on IR, five Dolphins questionable",
-       "summary": "Quarterback Malik Willis and safety Ronnie Harrison Jr. are on injured reserve. JuJu Brents, Jared Wayne, Bradley Pinion, Jaylin Simpson and Dante Trader Jr. are listed as questionable for Sunday. Kyle McCord remains the starter.",
+       "text": "Brents out, Jackson and Trader expected to play",
+       "summary": "Cornerback JuJu Brents (neck, shoulder) will miss Sunday. Right tackle Austin Jackson was limited with elbow and knee injuries but is expected to play. Safety Dante Trader Jr. is working through shoulder and groin issues and is also expected to go.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/betting/jets-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-12-01m85jvmsncs"
+        "name": "Heavy.com",
+        "url": "https://heavy.com/sports/nfl/miami-dolphins/dolphins-injury-update-austin-jackson-jets/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Jacob Rodriguez keeps piling up tackles",
-       "summary": "Linebacker Jacob Rodriguez led Miami with 13 tackles against Buffalo and intercepted Josh Allen. He has 93 tackles, seventh in the NFL, plus two interceptions, a sack and a forced fumble.",
+       "text": "Rodriguez chases Zach Thomas' rookie tackle mark",
+       "summary": "Rookie linebacker Jacob Rodriguez had 13 tackles against Buffalo and also picked off a tipped Allen pass, returning it 26 yards. Zach Thomas' 154 tackles in 1996 is the Miami rookie benchmark. Rodriguez would need just over 10 per game the rest of the way to pass it.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/fins-fins-down-winners-losers-170000023.html"
+        "url": "https://sports.yahoo.com/nfl/articles/jacob-rodriguez-chasing-zach-thomas-163100456.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "185: Miami's total yards in a 26-9 loss to Buffalo",
-       "summary": "The Dolphins managed 185 yards and 10 first downs, and all nine points came on field goals. McCord went 12 of 33 for 102 yards with an interception in his second career start.",
+       "text": "66: rookie starts for Miami, most in the NFL",
+       "summary": "The Dolphins have started rookies 66 times, well ahead of Cleveland at 43 and the Giants at 29. Miami leads the league in the share of tackles and receiving yards from rookies. Hafley says the staff is watching for fatigue and has added walk-throughs.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/recap/_/gameId/401873070"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/dolphins-counting-rookies-push-nfls-115328274.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Jets visit Miami on Sunday at 1 p.m. ET",
-       "summary": "Miami hosts the Jets at Hard Rock Stadium on CBS. The Dolphins won the first meeting 28-25 on Oct. 25 and have won seven of the last eight in the series. They play at Denver in Week 13.",
+       "text": "Jets at Dolphins, Sunday at 1 p.m. ET on CBS",
+       "summary": "The Jets are the only team Miami has beaten this season, a 28-25 win in Week 7. Miami has lost four straight since. Willis could return for Week 14 against the Bears after his required fourth game on IR.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/betting/jets-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-12-01m85jvmsncs"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/jets-dolphins-5-storylines-watch-114539908.html"
        }
       }
      ]
@@ -164,51 +164,51 @@
      "abbr": "NE",
      "name": "New England Patriots",
      "record": "5-5",
-     "headline": "DeVito starts with Maye out at least six weeks",
+     "headline": "Patriots without Maye and Brown at Chargers",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Maye's broken fibula puts DeVito in charge",
-       "summary": "Drake Maye fractured his fibula in the loss to Detroit in Munich. Coach Mike Vrabel said Tommy DeVito is the starter, and the team has not ruled out adding another quarterback. Only DeVito and rookie Behren Morton are available on the roster.",
+       "text": "Patriots go west with DeVito as Chargers lose Herbert",
+       "summary": "Tommy DeVito will start with Drake Maye out with a fractured right fibula. The Chargers are 1-9 and Justin Herbert is in concussion protocol, so DJ Uiagalelei is likely to make his first start since 2024 at Florida State. New England has allowed 80 points over its last two games.",
        "source": {
-        "name": "Boston.com",
-        "url": "https://www.boston.com/sports/new-england-patriots/2026/11/23/tommys-our-starter-patriots-are-sticking-with-tommy-devito-following-drake-mayes-injury/"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/patriots-chargers-preview/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Maye expected out at least six weeks",
-       "summary": "NFL Media reports Maye will miss at least six weeks. The Patriots kept him on the active roster rather than injured reserve, and coach Mike Vrabel called the situation fluid. Backup Tommy DeVito and rookie Behren Morton are the only quarterbacks available.",
+       "text": "Brown, Davis, Doubs out; Barmore questionable",
+       "summary": "The Patriots ruled out Maye, receiver A.J. Brown (hamstring), cornerback Carlton Davis (knee) and receiver Romeo Doubs. Defensive lineman Christian Barmore (knee) and guard Alijah Vera-Tucker (hamstring) are questionable. Coach Mike Vrabel is still deciding between Ben Brown and Matt Pryor at right guard.",
        "source": {
         "name": "Boston.com",
-        "url": "https://www.boston.com/sports/new-england-patriots/2026/11/23/tommys-our-starter-patriots-are-sticking-with-tommy-devito-following-drake-mayes-injury/"
+        "url": "https://www.boston.com/sports/new-england-patriots/2026/11/27/patriots-rule-out-four-starters-including-a-j-brown-ahead-of-chargers-game/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Elijah Ponder leads the New England pass rush",
-       "summary": "Ponder has 8 tackles for loss and 7.5 sacks. New England needs that pressure against a Chargers line facing an offense that has been sacked an NFL-high 39 times.",
+       "text": "DeMario Douglas becomes the top target with Brown out",
+       "summary": "Douglas leads the Patriots with 49 targets, 32 catches, 438 yards and four touchdowns. Brown has caught 8 of 22 targets for 102 yards since coming back from his ankle injury. Douglas will be DeVito's main option on Sunday.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/news/tommy-devito-leads-patriots-into-must-win-matchup-with-chargers/"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/patriots-chargers-preview/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "32.3: points the Patriots allow per game over four weeks",
-       "summary": "New England's defense ranks 30th in EPA per play and has given up 32.3 points a game over its last four. The Patriots also hold a minus-10 turnover differential, tied for 31st.",
+       "text": "16.8: points per game for the Chargers, 30th in the NFL",
+       "summary": "Los Angeles also ranks 26th in total offense at 288.1 yards per game. Its one win came 23-20 over Baltimore in Week 10. Omarion Hampton has run for 194 yards on 36 carries over the last two games.",
        "source": {
-        "name": "Patriots.com",
-        "url": "https://www.patriots.com/news/patriots-gameplan-how-will-the-offense-adjust-for-qb-tommy-devito-in-sunday-s-week-12-matchup-vs-the-chargers"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/patriots-chargers-preview/"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Patriots at Chargers, Sunday 4:05 p.m. ET",
-       "summary": "New England plays at SoFi Stadium on CBS. Chargers quarterback Justin Herbert is in the concussion protocol, so DJ Uiagalelei could make his first NFL start. Buffalo visits Foxborough on Dec. 6.",
+       "text": "Patriots at Chargers, Sunday at 4:05 p.m. ET on CBS",
+       "summary": "New England plays in Inglewood against a one-win team, then hosts Buffalo on Dec. 6 in a game with AFC East stakes. Watch how DeVito handles the pass rush without Brown on the outside.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/news/tommy-devito-leads-patriots-into-must-win-matchup-with-chargers/"
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/11/27/sports/patriots-chargers-preview/"
        }
       }
      ]
@@ -217,51 +217,51 @@
      "abbr": "NYJ",
      "name": "New York Jets",
      "record": "3-8",
-     "headline": "Jets snap skid, now face Miami",
+     "headline": "Jets try to sweep trip to Miami on Sunday",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Jets end five-game skid with 27-24 win in L.A.",
-       "summary": "New York scored on its first five possessions and held on to beat the Chargers. Geno Smith threw three touchdown passes, and Breece Hall ran 20 times for 86 yards. The Jets now try to avoid a season sweep by Miami.",
+       "text": "Reich's sideline play-calling changed the Jets offense",
+       "summary": "Frank Reich called plays from the sideline for the first time this season against the Chargers, and the Jets ran the ball more in the 27-24 win. The offense looked sharper after a five-game skid. Whether Reich stays on the sideline in Miami is the question this week.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/jets-beat-chargers-27-24-235330085.html"
+        "url": "https://sports.yahoo.com/nfl/articles/jets-dolphins-5-storylines-watch-114539908.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Williams, Cooper, Wallace questionable for Miami",
-       "summary": "Isaiah Williams, Omar Cooper Jr. and Trevin Wallace are listed as questionable. Williams and Cooper sat out the Chargers game, and Sterling Shepard filled in from the practice squad to catch two touchdowns.",
+       "text": "Omar Cooper Jr. out; Phillips, Parham, Ossai trending up",
+       "summary": "Receiver Omar Cooper Jr. is ruled out for Miami. Defensive tackle Harrison Phillips, left guard Dylan Parham, edge Joseph Ossai and receiver Isaiah Williams are trending toward playing. The Jets' report lists Ossai as healthy.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/betting/jets-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-12-01m85jvmsncs"
+        "name": "New York Jets",
+        "url": "https://www.newyorkjets.com/news/jets-head-to-miami-in-week-12-for-round-2-against-dolphins-11-25-2026"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "David Bailey is closing in on the rookie sack record",
-       "summary": "The No. 2 overall pick has 9.5 sacks, third in the league and half a sack short of the Jets rookie record. He is the first player since 1982 with at least 9.5 sacks and six forced fumbles through 10 career games.",
+       "text": "David Bailey is five sacks from the rookie record",
+       "summary": "Bailey has 9.5 sacks and six forced fumbles through 10 games, a combination no rookie has posted. The rookie sack record is 14.5, and he is four forced fumbles shy of the single-season mark of 10. He had two sacks of Justin Herbert last week.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/jets-dolphins-5-storylines-watch-114539908.html"
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/nfl/jets/onsi/jets-confidence-meter-judging-david-bailey-s-all-pro-case-week-12-dolphins-01m8d0k425zs"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "9 of 11: Jets third-down conversions against L.A.",
-       "summary": "New York converted nine of 11 third downs in the win over the Chargers. Smith went 17 of 21 for 176 yards with no turnovers, and the Jets ran the ball well behind Hall and Braelon Allen, who had 75 yards.",
+       "text": "102.7: Geno Smith's passer rating, a Jets best through 11 weeks",
+       "summary": "No Jets quarterback has had a higher rating at this point of a season, with at least 200 attempts, per TruMedia. Smith is completing 68.1 percent of his passes, and he hit 81 percent against the Chargers.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/jets-beat-chargers-27-24-235330085.html"
+        "name": "New York Jets",
+        "url": "https://www.newyorkjets.com/news/jets-head-to-miami-in-week-12-for-round-2-against-dolphins-11-25-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Jets at Dolphins, Sunday 1 p.m. ET on CBS",
-       "summary": "The Jets play at Hard Rock Stadium and want to avoid a sweep after losing the first meeting 28-25 on Oct. 25. They have a bye in Week 13. Watch whether Frank Reich keeps calling plays from the sideline.",
+       "text": "Jets at Dolphins, Sunday at 1 p.m. ET on CBS",
+       "summary": "Miami beat the Jets 28-25 in Week 7 at MetLife Stadium. The Dolphins rank 31st in third-down defense at 46.4 percent, and the Jets converted a franchise-best 81.8 percent against the Chargers. Aaron Glenn expects Miami to come out fighting.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/jets-dolphins-5-storylines-watch-114539908.html"
+        "name": "New York Jets",
+        "url": "https://www.newyorkjets.com/news/jets-head-to-miami-in-week-12-for-round-2-against-dolphins-11-25-2026"
        }
       }
      ]
@@ -276,51 +276,51 @@
      "abbr": "BAL",
      "name": "Baltimore Ravens",
      "record": "4-7",
-     "headline": "Ravens lose a shootout, skid hits six",
+     "headline": "Ravens chase a win in Houston after six straight losses",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Ravens drop a 35-33 shootout in Carolina, losing streak reaches six",
-       "summary": "Baltimore gained 421 yards at Bank of America Stadium on Nov. 22 and still fell to 4-7 when Carolina scored 35. Jacoby Brissett threw for 276 yards and a touchdown but also gave the ball away once. Lamar Jackson has been out since Week 8, and the playoff picture looks bleak.",
+       "text": "Ravens carry a six-game skid into Houston with Brissett under center",
+       "summary": "Baltimore started 4-1 and has lost six in a row, the latest a 35-33 loss at Carolina on a field goal with 1:44 left. Lamar Jackson is on injured reserve with a right thumb injury, so Jacoby Brissett starts again. The Ravens visit the 4-6 Texans on Sunday and then get their bye.",
        "source": {
-        "name": "Ravens.com",
-        "url": "https://www.baltimoreravens.com/game-day/2026/reg-week11/ravens-at-panthers/"
+        "name": "The Library",
+        "url": "https://thelibraryestate.com/baltimore-ravens-six-game-losing-streak-continues-as-ravens-prepare-for-houston/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Derrick Henry cleared a concussion scare, Jackson stays on IR",
-       "summary": "ESPN's game preview lists both Lamar Jackson and Tyler Huntley on injured reserve. Derrick Henry spent time in the concussion protocol, and coach Jesse Minter expects him to play Sunday in Houston. Jackson's broken and dislocated thumb came with a 6 to 10 week healing estimate from Minter on Nov. 13.",
+       "text": "Derrick Henry back to full practice, Madubuike's hamstring is the worry",
+       "summary": "Henry re-entered the concussion protocol Wednesday after brief symptoms late against Carolina, practiced in full Thursday and still has to clear the protocol. Coach Jesse Minter expects him to play. Defensive tackle Nnamdi Madubuike missed Wednesday and Thursday with a hamstring injury and sat out the Carolina game. Zay Flowers (ankle) and Rashod Bateman (groin) went full Thursday.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/preview/_/gameId/401873085"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/ravens-week-12-injury-report-180610583.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Zay Flowers piles up 97 yards as Brissett's top target",
-       "summary": "Flowers caught 8 passes for 97 yards against Carolina, his longest a 26-yarder. Rashod Bateman needed only 2 catches to reach 67 yards, including a 52-yard touchdown. Derrick Henry added 94 rushing yards and a score on 13 carries.",
+       "text": "Derrick Henry keeps producing while the Ravens lose",
+       "summary": "Henry ran 13 times for 94 yards and a touchdown in the loss at Carolina. Brissett threw for 276 yards and Bateman caught a 52-yard touchdown, but the offense could not close after a 12-0 first-quarter lead. Henry's health is the swing factor in Houston.",
        "source": {
-        "name": "Ravens.com",
-        "url": "https://www.baltimoreravens.com/game-day/2026/reg-week11/ravens-at-panthers/"
+        "name": "The Library",
+        "url": "https://thelibraryestate.com/baltimore-ravens-six-game-losing-streak-continues-as-ravens-prepare-for-houston/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "421: Ravens outgained Carolina and still lost",
-       "summary": "Baltimore finished with 421 net yards to Carolina's 378 and held a 5-penalty, 41-yard edge in flags. Chuba Hubbard's 120 rushing yards and two scores helped Carolina win anyway. Carolina held the ball for 31:52 to Baltimore's 28:08.",
+       "text": "-7: Baltimore's turnover margin, with 17 lost and 10 taken",
+       "summary": "The Ravens have lost the ball 17 times and taken it away only 10. The offense still ranks ninth in rushing at 128.5 yards a game and 14th in total yards. The defense ranks 18th in total yards allowed at 330.2 a game.",
        "source": {
-        "name": "Ravens.com",
-        "url": "https://www.baltimoreravens.com/game-day/2026/reg-week11/ravens-at-panthers/"
+        "name": "Houston Texans",
+        "url": "https://www.houstontexans.com/news/know-the-texans-foe-week-12-baltimore-ravens-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Ravens try to end a six-game skid at Houston",
-       "summary": "Baltimore (4-7) visits Houston (4-6) on Sunday, Nov. 29 on CBS, with the AP preview listing a 1 p.m. ET start. Henry has 793 rushing yards, seventh in the NFL, and the Texans have Will Anderson Jr., who leads the league with 11.5 sacks. Houston beat Baltimore 44-10 in their last meeting.",
+       "text": "Ravens at Texans Sunday, then a bye",
+       "summary": "Baltimore visits Houston on Sunday at 1 p.m. ET on CBS. Brissett has started against the Texans with four other teams, and Houston beat him last year while he played for Arizona. The Ravens then have their Week 13 bye and host Tampa Bay in Week 14.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/preview/_/gameId/401873085"
+        "name": "The Library",
+        "url": "https://thelibraryestate.com/baltimore-ravens-six-game-losing-streak-continues-as-ravens-prepare-for-houston/"
        }
       }
      ]
@@ -329,51 +329,51 @@
      "abbr": "CIN",
      "name": "Cincinnati Bengals",
      "record": "7-3",
-     "headline": "Bengals regroup after last-second loss",
+     "headline": "Bengals need a run game and a fix on defense vs. Saints",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Late field goal sinks Bengals in Washington, 22-20",
-       "summary": "Evan McPherson's 56-yard field goal put Cincinnati up 20-19 with 46 seconds left on Monday night. Jayden Daniels then hit two deep passes, and Drew Stevens kicked a 26-yarder as time expired. The loss ended a five-game winning streak, but the Bengals still lead the AFC North by a game.",
+       "text": "Bengals defense gave up six straight long scoring drives in Washington",
+       "summary": "Washington closed the 22-20 game with six consecutive scoring drives of 50 yards or more, a first in at least 30 years per OptaSTATS. Cincinnati also allowed 5.8 yards per rush in that game and sits second-worst in the league at 5.06 for the season. The Saints visit Sunday.",
        "source": {
-        "name": "Bengals.com",
-        "url": "https://www.bengals.com/news/bengals-commanders-recap-postgame-notes-quotes-stats-week-11-2026-monday-night-football"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/bengals-score-bunches-theyve-vulnerable-221835825.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Burks heads to injured reserve, Iosivas set to return",
-       "summary": "Linebacker Oren Burks went on the reserve/injured list with a groin injury after the Washington game. Linebacker Swayze Bozeman and guard Brian Parker II were activated from the list. Receiver Andrei Iosivas, out with a thumb injury, is expected back for Week 12.",
+       "text": "Higgins questionable with a sore hamstring, Risner out again",
+       "summary": "Tee Higgins missed Friday practice after waking up sore and is questionable, though he is expected to play. Right guard Dalton Risner is out for a second straight game and is in play for the Browns next week. Andrei Iosivas (thumb) is questionable and could be activated from injured reserve. Cornerback Jalen Davis (hamstring) is doubtful.",
        "source": {
-        "name": "Bengals.com",
-        "url": "https://www.bengals.com/news/bengals-commanders-recap-postgame-notes-quotes-stats-week-11-2026-monday-night-football"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/zac-taylor-offers-needed-context-212834935.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Boye Mafe racks up three first-half sacks",
-       "summary": "Mafe finished with 5 tackles and 3 sacks, all before halftime. He is the first Bengal with three sacks in a game since Trey Hendrickson in 2024 and now leads the team with 9.5 on the year. Dexter Lawrence added a career-high 10 tackles for loss.",
+       "text": "Ja'Marr Chase is quiet in Washington but still on a big pace",
+       "summary": "Chase caught five passes for 31 yards on Monday night. He still has 69 catches for 909 yards and seven touchdowns this season. Saints corner Kool-Aid McKinstry has started all 10 games and will likely draw him, and a shorthanded Higgins would push more targets his way.",
        "source": {
-        "name": "Bengals.com",
-        "url": "https://www.bengals.com/news/bengals-commanders-recap-postgame-notes-quotes-stats-week-11-2026-monday-night-football"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/4-matchups-watch-bengals-saints-222716923.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "8: Burrow's straight games at 70 percent or better",
-       "summary": "Joe Burrow went 28 of 40 for 300 yards and 2 touchdowns in Washington, his eighth game in a row completing at least 70 percent. That ties the NFL record shared by Joe Montana and Tua Tagovailoa. His 3,095 passing yards lead the league through 11 weeks.",
+       "text": "6-0: Cincinnati's record when it scores 30 points",
+       "summary": "The Bengals are unbeaten when they reach 30 and 1-3 when they score fewer. They managed 20 in Washington while running at 2.2 yards per carry, with five of 13 designed runs gaining nothing or losing yardage. The ground game has to help Sunday.",
        "source": {
-        "name": "Bengals.com",
-        "url": "https://www.bengals.com/news/bengals-commanders-recap-postgame-notes-quotes-stats-week-11-2026-monday-night-football"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/bengals-score-bunches-theyve-vulnerable-221835825.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Bengals host the 3-7 Saints on Sunday",
-       "summary": "Cincinnati (7-3) welcomes New Orleans (3-7) to Paycor Stadium on Sunday, Nov. 29 at 1 p.m. ET, with the Saints' site listing CBS. Burrow said the Bengals had chances to win Monday and praised the Saints' blitzing linebackers. Washington held Ja'Marr Chase and Tee Higgins to 74 yards combined.",
+       "text": "Saints at Bengals Sunday, then a trip to Cleveland",
+       "summary": "New Orleans (3-7) visits Paycor Stadium on Sunday at 1 p.m. ET on CBS. Watch Boye Mafe, at a career-high 9.5 sacks, against a Saints line that has allowed 29 sacks on quarterback Tyler Shough. Cincinnati goes to Cleveland in Week 13.",
        "source": {
-        "name": "WLWT",
-        "url": "https://www.wlwt.com/article/joe-burrow-cincinnati-bengals-new-orleans-saints-press-conference/74535934"
+        "name": "Athlon Sports",
+        "url": "https://athlonsports.com/nfl/4-takeaways-bengals-loss-commanders-ahead-week-12-vs-saints"
        }
       }
      ]
@@ -382,51 +382,51 @@
      "abbr": "CLE",
      "name": "Cleveland Browns",
      "record": "6-4",
-     "headline": "Browns land first Sunday night game since 2021",
+     "headline": "Browns put a 4-0 home mark on the line on Sunday night",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Browns get Sunday Night Football for the first time since 2021",
-       "summary": "The league flexed Cleveland's home game against Las Vegas into the Sunday night slot. It ends the NFL's longest Sunday Night Football drought for any team, dating to Nov. 28, 2021. The Browns hold the final AFC playoff spot at 6-4.",
+       "text": "Browns try to start faster against the Raiders",
+       "summary": "Cleveland is 6-4, a game behind Cincinnati in the AFC North, and 4-0 at home for the first time since 1963. Coach Todd Monken said he expects the team to start faster over the next seven weeks. The offense averages 18.8 points, 26th in the league.",
        "source": {
-        "name": "BrownsZone",
-        "url": "https://www.brownszone.com/2026/11/17/browns-raiders-game-nov-29-flexed-to-sunday-night-football"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/cleveland-browns-vs-las-vegas-213946410.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Four Browns sit out Wednesday's practice",
-       "summary": "Right guard Austin Barber (knee), receiver Denzel Boston (quadriceps) and defensive ends Isaiah McGuire (calf) and Derek Barnett (hamstring) did not practice Wednesday. Five more players were limited, among them center Elgton Jenkins (knee) and tight end Harold Fannin Jr. (groin). Safety Ronnie Hickman, who has a concussion on the report, practiced fully.",
+       "text": "Barnett out, Boston and McGuire need to practice Friday",
+       "summary": "Edge rusher Derek Barnett (hamstring) did not practice and is out. Receiver Denzel Boston (quad) and edge Isaiah McGuire (calf) were not practicing at the Thursday walkthrough. Right guard Austin Barber (knee) returned to a limited practice, which makes his Sunday availability more likely. Running back Raheim Sanders is questionable.",
        "source": {
-        "name": "BrownsZone",
-        "url": "https://www.brownszone.com/2026/11/26/notes-defense-looks-for-early-spark-to-fix-slow-starts/"
+        "name": "247Sports",
+        "url": "https://247sports.com/nfl/cleveland-browns/article/browns-get-bad-injury-news-on-thanksgiving-before-raiders-game-293362453/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Deshaun Watson says shoulder and Achilles are fully back",
-       "summary": "Watson threw for 308 yards at Tennessee, 324 at Pittsburgh and 312 against Houston, after topping out at 268 in his first six starts. He ran for 49 yards and a touchdown on 8 carries against the Texans, his best rushing day this season. He has no touchdown passes in his last four starts.",
+       "text": "Quinshon Judkins is looking for his rookie form",
+       "summary": "Judkins has 423 rushing yards and four touchdowns on 126 carries, 3.4 yards a carry, after 827 yards as a rookie. He has gone three straight games without 50 yards, including nine carries for 33 against Houston. Sanders is back from a hip injury and Dylan Sampson has taken passing-down snaps.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/deshaun-watson-says-shoulder-achilles-212947216.html"
+        "name": "Wisevoter",
+        "url": "https://wisevoter.com/world/us/oh/cleveland/2026/11/27/browns-judkins-faces-pressure-week-12"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "78: points Cleveland's defense has allowed in the first quarter",
-       "summary": "Opponents have scored 78 first-quarter points on the Browns, against 39 in the second, 33 in the third and 63 in the fourth. They scored on their first possession in 8 of 10 games. Jacksonville opened the season with a 31-0 lead.",
+       "text": "42.9: Cleveland's red-zone touchdown percentage",
+       "summary": "The Browns turn only 42.9 percent of red-zone trips into touchdowns while scoring 18.8 points a game. Las Vegas allows a league-worst 29.7 points a game, so this is the matchup to fix it.",
        "source": {
-        "name": "BrownsZone",
-        "url": "https://www.brownszone.com/2026/11/26/notes-defense-looks-for-early-spark-to-fix-slow-starts/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/cleveland-browns-vs-las-vegas-213946410.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Raiders visit Cleveland on Sunday night",
-       "summary": "Cleveland (6-4) hosts Las Vegas (4-7) at Huntington Bank Field on Sunday, Nov. 29 at 8:20 p.m. ET on NBC. The Raiders start rookie quarterback Fernando Mendoza, the No. 1 pick in the draft. Brock Bowers (ankle) was limited at Wednesday's practice for Las Vegas.",
+       "text": "Raiders at Browns Sunday night, then Cincinnati",
+       "summary": "Cleveland hosts Las Vegas (4-7) at 8:20 p.m. ET on NBC and Peacock, with rain, cold and wind in the forecast. Raiders rookie Fernando Mendoza has been sacked 11 times in two starts. The Browns host the Bengals in Week 13.",
        "source": {
-        "name": "ClevelandBrowns.com",
-        "url": "https://www.clevelandbrowns.com/game-day/2026/reg-week12/browns-vs-raiders/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/cleveland-browns-vs-las-vegas-213946410.html"
        }
       }
      ]
@@ -434,52 +434,52 @@
     {
      "abbr": "PIT",
      "name": "Pittsburgh Steelers",
-     "record": "6-4",
-     "headline": "Steelers cut Rodgers, Rudolph starts today",
+     "record": "7-4",
+     "headline": "Steelers romp 27-5 in first game without Rodgers",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Steelers waive Aaron Rodgers after sideline feud goes public",
-       "summary": "Pittsburgh benched Rodgers Tuesday night, then waived him after his appearance on The Pat McAfee Show, where he criticized coach Mike McCarthy. McCarthy had said a day earlier that Rodgers was the quarterback. Mason Rudolph starts Friday against Denver for a 6-4 team that has lost two straight.",
+       "text": "Steelers rout Broncos 27-5 on Black Friday",
+       "summary": "Pittsburgh improved to 7-4 and 5-0 at home, a half-game behind AFC North leader Cincinnati. T.J. Watt recovered a loose ball in the end zone for a touchdown and Jalen Ramsey returned an interception 36 yards for another. Cam Heyward and Nick Herbig each had two sacks.",
        "source": {
-        "name": "NFL.com",
-        "url": "https://www.nfl.com/news/steelers-release-aaron-rodgers"
+        "name": "Steelers.com",
+        "url": "https://www.steelers.com/news/steelers-top-broncos-27-5-at-home"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Highsmith out, Holcomb questionable against Denver",
-       "summary": "Outside linebacker Alex Highsmith (ankle) is out, along with receiver Ben Skowronek (calf) and guard Gennings Dunker (knee), both on injured reserve. Inside linebacker Cole Holcomb (heel) is questionable after two limited practices. Receiver Michael Pittman Jr. (foot) and Cameron Heyward (rest) carried no game designation.",
+       "text": "Sawyer and Echols hurt against Denver, Highsmith eyes Texans",
+       "summary": "Jack Sawyer (knee) and Brandin Echols (quad) left the game and did not return. Cam Heyward and Pat Freiermuth were shaken up, and Heyward came back. Alex Highsmith (ankle) and Cole Holcomb (heel) sat out, and Highsmith could return against Houston. The next injury report comes Wednesday.",
        "source": {
-        "name": "Steelers.com",
-        "url": "https://www.steelers.com/news/week-12-injury-report-broncos-x3630"
+        "name": "Steelers Depot",
+        "url": "https://steelersdepot.com/2026/11/injury-roundup-steelers-suffer-multiple-defensive-injuries-in-win-over-broncos/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Mason Rudolph gets the start on short notice",
-       "summary": "The Steelers announced the change after 11 p.m. ET Tuesday, which left Rudolph only days to prepare for a Denver team that is 8-2. No 2026 passing numbers for him were available in the sources reviewed. Rodgers was ruled inactive for a non-injury reason.",
+       "text": "Mason Rudolph manages the game and hits Metcalf",
+       "summary": "Rudolph started on a short week and went 9 of 15 for 142 yards and a touchdown to DK Metcalf, with completions to seven receivers. He took one sack. Rico Dowdle ran for 71 yards on 11 carries and Jaylen Warren added 46 on 20.",
        "source": {
-        "name": "NBC Sports",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bench-aaron-rodgers-for-mason-rudolph"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/steelers-3-takeaways-27-5-234256036.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "20-14-1: Denver's all-time edge over Pittsburgh",
-       "summary": "The Broncos lead the series 20-14-1, playoffs included. Pittsburgh won the last meeting 13-6 in Denver in 2024. Denver's defense led the league with 68 sacks last season.",
+       "text": "14: points the Steelers defense scored on its own",
+       "summary": "Watt's fumble recovery in the end zone and Ramsey's 36-yard pick-six each counted for seven. Rookie Daylen Everette added an interception on fourth-and-21. Kicker Chris Boswell's 33-yard field goal tied Gary Anderson for the franchise scoring lead.",
        "source": {
         "name": "Steelers.com",
-        "url": "https://www.steelers.com/news/steelers-2026-opponent-preview-denver-broncos"
+        "url": "https://www.steelers.com/news/steelers-top-broncos-27-5-at-home"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Steelers host Broncos on Black Friday",
-       "summary": "Pittsburgh plays Denver today at 3 p.m. ET at Acrisure Stadium, streaming on Amazon Prime Video. Pittsburgh holds the No. 7 seed in the AFC with a 6-4 record.",
+       "text": "Texans visit Pittsburgh Sunday night, Dec. 6",
+       "summary": "The Steelers host Houston on Dec. 6 at 8:20 p.m. ET on NBC. Pittsburgh is a half-game behind Cincinnati in the division. Watch whether Highsmith returns and how the offense runs without Aaron Rodgers.",
        "source": {
-        "name": "Steelers Depot",
-        "url": "https://steelersdepot.com/2026/11/steelers-vs-broncos-2026-week-twelve-game-time-line-weather-injuries-tv-radio-schedule/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/steelers-3-takeaways-27-5-234256036.html"
        }
       }
      ]
@@ -494,51 +494,51 @@
      "abbr": "HOU",
      "name": "Houston Texans",
      "record": "4-6",
-     "headline": "Texans ride Colts rout into Ravens game",
+     "headline": "Texans get Harrison and Marks back for Ravens",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Texans beat Colts 26-3, now eye a Ravens team in free fall",
-       "summary": "Houston is 4-6 and sits three games behind Jacksonville in the AFC South. C.J. Stroud went 21 of 27 for 194 yards and three touchdowns in the win over Indianapolis. Baltimore arrives at 4-7 after six straight losses.",
+       "text": "Texans try to string wins together against a reeling Ravens team",
+       "summary": "Houston is 4-6 and coming off a 26-3 win over Indianapolis. Baltimore is 4-7 and has lost six straight, most recently 35-33 at Carolina, and will start Jacoby Brissett with Lamar Jackson on injured reserve. The Texans have alternated wins and losses over their last four games.",
+       "source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/preview/_/gameId/401873085"
+       }
+      },
+      {
+       "cat": "Injury Report",
+       "text": "Harrison and Marks return, Hunter and Rutledge stay out",
+       "summary": "Wide receiver Marvin Harrison Jr. is back from a hamstring injury that cost him two games, and running back Woody Marks cleared the concussion protocol. Defensive end Danielle Hunter (hamstring), guard Keylan Rutledge (neck and shoulder), receiver Kayshon Boutte (hip) and tight end Brevin Jordan are out. Jadeveon Clowney fills in for Hunter.",
+       "source": {
+        "name": "Heavy.com",
+        "url": "https://heavy.com/sports/nfl/houston-texans/marks-harrison-injury-update-ravens-report/"
+       }
+      },
+      {
+       "cat": "Player Spotlight",
+       "text": "C.J. Stroud keeps throwing touchdowns",
+       "summary": "Stroud averages 265.6 passing yards a game, sixth in the NFL, with 22 touchdown passes and four interceptions. He threw three touchdowns against the Colts, completing 21 of 27 passes for 194 yards, and has thrown at least three in three straight games.",
        "source": {
         "name": "Sports Illustrated",
         "url": "https://www.si.com/betting/ravens-vs-texans-prediction-odds-spread-injuries-trends-for-nfl-week-12-01m85jp47wh1"
        }
       },
       {
-       "cat": "Injury Report",
-       "text": "Hunter, Boutte and Rutledge sit out practice again",
-       "summary": "Danielle Hunter (hamstring), Kayshon Boutte (hip), Brevin Jordan (finger and foot) and Keylan Rutledge (neck and shoulder) did not practice Wednesday or Thursday. Sheldon Rankins (ankle) was limited Thursday. Marvin Harrison Jr. (hamstring) went full after a limited Wednesday.",
-       "source": {
-        "name": "Houston Texans",
-        "url": "https://www.houstontexans.com/news/week-12-injury-report-texans-vs-ravens"
-       }
-      },
-      {
-       "cat": "Player Spotlight",
-       "text": "Will Anderson Jr. leads the league in sacks",
-       "summary": "Anderson tops the NFL sack chart, and Houston's defense ranks third in the league in sacks as a team. He gets a Baltimore offense that has allowed 27 sacks this season.",
-       "source": {
-        "name": "Toro Times",
-        "url": "https://torotimes.com/ravens-expert-answers-5-burning-questions-ahead-of-texans-ravens-showdown"
-       }
-      },
-      {
        "cat": "Stat of the Day",
-       "text": "4: C.J. Stroud's interceptions all season",
-       "summary": "Stroud has thrown four interceptions this year, and Houston has the fewest giveaways in the NFL. Last year against Baltimore he went 23 of 27 for 244 yards and four touchdowns in a 44-10 Texans win.",
+       "text": "13-3: Baltimore's lead in the all-time series with Houston",
+       "summary": "The Ravens have won 13 of the 16 meetings. The Texans won the most recent one 44-10 on Oct. 5, 2025, in Baltimore, when many Ravens starters were hurt.",
        "source": {
-        "name": "Toro Times",
-        "url": "https://torotimes.com/ravens-expert-answers-5-burning-questions-ahead-of-texans-ravens-showdown"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/preview/_/gameId/401873085"
        }
       },
       {
        "cat": "What's Next",
        "text": "Ravens visit Houston on Sunday at 1 p.m. ET on CBS",
-       "summary": "Baltimore has Jacoby Brissett at quarterback, and he is 0-2 as a starter with 616 passing yards. Lamar Jackson is on injured reserve. Watch the Houston pass rush against a line that gives up sacks.",
+       "summary": "Watch the Texans' run game, which had its best output of the year in the win over Indianapolis, against Derrick Henry and Justice Hill. Will Anderson Jr. leads the NFL with 11.5 sacks and faces a Brissett offense that has passed for 275 yards or more in both of his Baltimore starts.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/betting/ravens-vs-texans-prediction-odds-spread-injuries-trends-for-nfl-week-12-01m85jp47wh1"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/preview/_/gameId/401873085"
        }
       }
      ]
@@ -547,51 +547,51 @@
      "abbr": "IND",
      "name": "Indianapolis Colts",
      "record": "3-8",
-     "headline": "Colts waive Jones, hand keys to Richardson",
+     "headline": "Colts hand Richardson the keys after a teardown",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Colts waive Daniel Jones, Anthony Richardson Sr. starts Sunday",
-       "summary": "Indianapolis cut Jones a day after a 26-3 loss to Houston. Coach Shane Steichen said many factors led to the move and that Richardson, who has not started since Week 16 of 2024, has matured in his preparation. The Colts are 3-8 with six games left.",
+       "text": "Richardson starts Sunday as the Colts rebuild on the fly",
+       "summary": "Anthony Richardson makes his first start since December 2024 after Indianapolis released Daniel Jones. The Colts also traded Quenton Nelson, DeForest Buckner, Keenan Allen and Josh Downs before the deadline. Richardson's fifth-year option was declined, so he is a free agent after the season.",
        "source": {
-        "name": "Colts.com",
-        "url": "https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones"
+        "name": "Big Blue Interactive",
+        "url": "https://bigblueinteractive.com/2026/11/27/preview-new-york-giants-at-indianapolis-colts-november-29-2026/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Rookie end Caden Curry out for season with torn wrist ligament",
-       "summary": "Curry hurt his wrist in the loss to Houston, had surgery and went on injured reserve Tuesday. He finished with 26 tackles and one sack in 11 games. Sauce Gardner (calf) and Bernhard Raimann (concussion) returned to full practice Wednesday.",
+       "text": "Ward, Tillery and Travis sit out practice again",
+       "summary": "Cornerback Charvarius Ward Sr. (knee), tackle Jerry Tillery (calf) and tackle Jalen Travis (knee) did not practice Wednesday or Thursday. Running back Seth McGowan (hamstring) will miss time, and tight end Will Mallory (hamstring) likely misses a third straight game.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/week-12-injury-report-alec-220136355.html"
+        "url": "https://sports.yahoo.com/nfl/articles/colts-vs-giants-week-12-110841468.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Richardson gets first start in nearly two years",
-       "summary": "The No. 4 pick in 2023 spent the past two seasons as Jones's backup. Steichen pointed to his athleticism and running ability and said a full week of practice as the starter should help. Riley Leonard is the third quarterback.",
+       "text": "Jonathan Taylor carries the offense with eight rushing touchdowns",
+       "summary": "Taylor has 760 rushing yards on 188 carries, 62.7 percent of the Colts' runs, and eight rushing touchdowns. He managed 21 yards on 11 carries against Houston last week. He has not faced the Giants since 2021.",
        "source": {
-        "name": "Colts.com",
-        "url": "https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones"
+        "name": "iHeart Radio",
+        "url": "https://790louisville.iheart.com/content/2026-11-27-jonathan-taylor-week-12-preview-vs-the-giants/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "13: interceptions Jones threw, most in the NFL",
-       "summary": "Jones also ranked last in the league with a 65.4 passer rating when the Colts released him. The offense averages 19.2 points per game, seventh lowest in the NFL.",
+       "text": "19.2: points the Colts score per game, 26th in the NFL",
+       "summary": "Indianapolis averages 19.2 points a game going into Richardson's start. Richardson has thrown only six passes over the past two seasons, completing three.",
        "source": {
-        "name": "Colts.com",
-        "url": "https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones"
+        "name": "BVM Sports",
+        "url": "https://bvmsports.com/2026/11/27/colts-giants-preview-anthony-richardson-returns-as-starting-qb/"
        }
       },
       {
        "cat": "What's Next",
        "text": "Giants visit Indianapolis Sunday at 1 p.m. ET on FOX",
-       "summary": "Richardson makes his first start of the year, and the Colts have lost six of their last seven. Watch how the offense uses his legs.",
+       "summary": "Giants cornerback Sauce Gardner and tackle Bernhard Raimann are expected back. The Colts need Richardson to protect the ball and keep Taylor involved against a Giants defense that allows 117.1 rushing yards a game.",
        "source": {
-        "name": "Fox Sports",
-        "url": "https://www.foxsports.com/nfl/schedule?seasonType=reg&week=12"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/colts-vs-giants-week-12-110841468.html"
        }
       }
      ]
@@ -600,51 +600,51 @@
      "abbr": "JAX",
      "name": "Jacksonville Jaguars",
      "record": "7-3",
-     "headline": "Jaguars need a response after Giants loss",
+     "headline": "Jaguars lose Washington before Titans game",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Jaguars drop 23-18 to Giants, still lead the AFC South",
-       "summary": "Jacksonville went one for six on touchdowns in the red zone and settled for four Cam Little field goals. The Giants held the offense to 238 yards and three second-half points. The Jaguars still lead Houston by three games.",
+       "text": "Jaguars hold a three-game division lead and try to bounce back",
+       "summary": "Jacksonville is 7-3 and leads the AFC South by three games over Houston after a 23-18 loss at the Giants. It has beaten Tennessee five straight times, including 40-23 in Week 10. Coach Liam Coen said the team took Parker Washington's injury with a next-man-up attitude.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/5-storylines-watch-jaguars-vs-194402050.html"
+        "name": "Tennessee Titans",
+        "url": "https://www.tennesseetitans.com/news/game-preview-titans-travel-to-face-division-leading-jaguars"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Hainsey week to week, Tuten playing through ankle issue",
-       "summary": "Center Robert Hainsey has a knee injury and missed the Giants game, so Jonah Monheim started. Running back Bhayshul Tuten has missed practice time every week since Week 8 but has not missed a game. Left tackle Anton Harrison is out for the season.",
+       "text": "Washington and Tuten out, Hainsey questionable",
+       "summary": "Receiver Parker Washington (shoulder) and running back Bhayshul Tuten (ankle and foot) are out. Center Robert Hainsey (knee) is questionable after missing the Giants game. Guard Patrick Mekari and defensive end B.J. Green II, both on injured reserve, will not be activated Sunday.",
        "source": {
         "name": "Jaguars.com",
-        "url": "https://www.jaguars.com/news/quick-thoughts-before-jaguars-week-12-vs-titans-really-really-need-a-response"
+        "url": "https://www.jaguars.com/news/friday-quick-hits-tuten-out-sunday"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Lawrence struggles under pressure against New York",
-       "summary": "Trevor Lawrence went 25 of 47 for 301 yards, one touchdown and two interceptions against the Giants. Defenders pressured him on 46.2 percent of dropbacks. Against Tennessee two weeks earlier he threw for 352 yards and three touchdowns.",
+       "text": "Parker Washington's absence leaves a hole in the passing game",
+       "summary": "Washington leads Jacksonville with 44 catches, 748 yards and six touchdowns, and he had seven catches for 152 yards against Tennessee in Week 10. Coen called him week to week. Jakobi Meyers (ankle) is expected to play.",
        "source": {
-        "name": "Sharp Football Analysis",
-        "url": "https://www.sharpfootballanalysis.com/fantasy/titans-jaguars-week-12-fantasy-football-preview-nfl-worksheet-rich-hribar-2026/"
+        "name": "Heavy.com",
+        "url": "https://heavy.com/sports/nfl/tennessee-titans/titans-huge-break-rematch-jaguars/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "5-1: Jaguars' record after losses under Coach Coen",
-       "summary": "Jacksonville has bounced back well under Coach Coen and has not lost a regular-season home game since Week 6 of last season. The run game is the concern, with a season-low 77 yards twice in recent weeks.",
+       "text": "28.7: points the Jaguars score per game, sixth in the NFL",
+       "summary": "Jacksonville also averages 5.9 yards a play and 358.4 yards a game. Trevor Lawrence threw one touchdown and two interceptions against the Giants, his first multi-interception game of the season.",
        "source": {
-        "name": "Jaguars.com",
-        "url": "https://www.jaguars.com/news/quick-thoughts-before-jaguars-week-12-vs-titans-really-really-need-a-response"
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/nfl/titans/onsi/best-and-worst-case-scenario-for-titans-week-12-matchup-with-jaguars-01m8ek0yz79q"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Titans visit Jacksonville Sunday at 1 p.m. ET",
-       "summary": "The Jaguars won the first meeting 40-23 in Nashville. Tennessee wide receiver Carnell Tate is back after missing that game. Jacksonville wants to get its ground game going at EverBank Stadium.",
+       "text": "Titans visit Jacksonville Sunday at 1 p.m. ET on FOX",
+       "summary": "The game is at EverBank Stadium. Lawrence has to find new targets without Washington, and Coen wants the whole backfield to produce tough yards with Tuten out.",
        "source": {
         "name": "Jaguars.com",
-        "url": "https://www.jaguars.com/news/quick-thoughts-before-jaguars-week-12-vs-titans-really-really-need-a-response"
+        "url": "https://www.jaguars.com/news/friday-quick-hits-tuten-out-sunday"
        }
       }
      ]
@@ -653,51 +653,51 @@
      "abbr": "TEN",
      "name": "Tennessee Titans",
      "record": "1-9",
-     "headline": "Cam Ward finds his rhythm on a 1-9 team",
+     "headline": "Titans must find a stop against Jacksonville",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Cam Ward makes his case as the Titans' long-term quarterback",
-       "summary": "Ward threw for at least 230 yards and two touchdowns in three straight games, a first for a Titans passer since Marcus Mariota in 2016. Coach Robert Saleh said Ward is showing he can lead the franchise. Tennessee lost 51-30 at Dallas on Sunday.",
+       "text": "Titans defense is the problem after giving up 51 in Dallas",
+       "summary": "Tennessee allowed 36 points to Cincinnati, 40 to Jacksonville and 51 in Dallas over its last three games. It lost 51-30 at Dallas despite scoring 30. The team has traded defensive tackle Jeffery Simmons and safety Amani Hooker.",
        "source": {
-        "name": "Tennessee Titans",
-        "url": "https://tennesseetitans.com/news/qb-cam-ward-aims-to-keep-making-a-case-for-himself-with-titans"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/3-trends-im-watching-most-203000229.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Titans line thin: Skoronski on IR, Moore hurt knee",
-       "summary": "Left guard Peter Skoronski is on injured reserve and rookie right guard Fernando Carmona likely stays out. Left tackle Dan Moore Jr. missed Wednesday practice with a knee injury, and James Hudson III would start if Moore cannot go.",
+       "text": "Flott, Burgess and Moore miss practice",
+       "summary": "Cornerback Cor'Dale Flott (neck) and safety Terrell Burgess (knee) did not practice Wednesday or Thursday. Left tackle Dan Moore Jr. (knee) sat Wednesday and was limited Thursday. Guard Peter Skoronski is on injured reserve, and the Titans signed cornerback Corey Thornton from Carolina's practice squad.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/titans/onsi/the-3-trends-i-m-watching-most-in-titans-week-12-rematch-vs-jaguars-01m8a4mqfg0v"
+        "name": "Tennessee Titans",
+        "url": "https://www.tennesseetitans.com/news/week-12-injury-report-titans-at-jaguars"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Carnell Tate scores on a 59-yard catch and run in Dallas",
-       "summary": "Tate turned a short catch into a 59-yard touchdown, running 51 yards after the catch. He returns this week after missing the first Jacksonville game. Ward calls on him as a deep threat.",
+       "text": "Tony Pollard is running well for a 1-9 team",
+       "summary": "Pollard ran 21 times for 110 yards against Dallas, his third 100-yard game in his last four. He has 501 scrimmage yards since Week 7, fifth most among NFL running backs.",
        "source": {
-        "name": "Sharp Football Analysis",
-        "url": "https://www.sharpfootballanalysis.com/fantasy/titans-jaguars-week-12-fantasy-football-preview-nfl-worksheet-rich-hribar-2026/"
+        "name": "Tennessee Titans",
+        "url": "https://www.tennesseetitans.com/news/game-preview-titans-travel-to-face-division-leading-jaguars"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "109-16: Tennessee's second-quarter scoring margin against it",
-       "summary": "Opponents have outscored the Titans 109-16 in the second quarter this season. Tennessee has the worst first-half scoring margin in the NFL at minus 87.",
+       "text": "866: Cam Ward's total yards over his last three games",
+       "summary": "Ward has 783 passing yards and 83 rushing yards in that stretch, with six passing touchdowns, one rushing touchdown and one interception. He has thrown for at least 230 yards and two touchdowns in each game.",
        "source": {
-        "name": "Sharp Football Analysis",
-        "url": "https://www.sharpfootballanalysis.com/fantasy/titans-jaguars-week-12-fantasy-football-preview-nfl-worksheet-rich-hribar-2026/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/3-trends-im-watching-most-203000229.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Titans visit Jacksonville Sunday at 1 p.m. ET",
-       "summary": "Tennessee has lost five straight to the Jaguars, including a 40-23 defeat in Nashville in Week 10. The defense has allowed 36, 40 and 51 points over its last three games. Watch whether Ward keeps his streak alive.",
+       "text": "Titans visit Jacksonville Sunday at 1 p.m. ET on FOX",
+       "summary": "Tennessee lost 40-23 to the Jaguars in Week 10 and has dropped five straight in the series. Watch how the line holds up with Skoronski out and Moore's knee in question, and whether Carnell Tate and Chimere Dike keep getting targets.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/titans/onsi/the-3-trends-i-m-watching-most-in-titans-week-12-rematch-vs-jaguars-01m8a4mqfg0v"
+        "name": "Tennessee Titans",
+        "url": "https://www.tennesseetitans.com/news/game-preview-titans-travel-to-face-division-leading-jaguars"
        }
       }
      ]
@@ -711,52 +711,52 @@
     {
      "abbr": "DEN",
      "name": "Denver Broncos",
-     "record": "8-2",
-     "headline": "Broncos play Black Friday without Dobbins",
+     "record": "8-3",
+     "headline": "Nix turns it over three times in Pittsburgh",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Payton suspends Dobbins for Black Friday trip to Pittsburgh",
-       "summary": "Sean Payton announced Tuesday that running back J.K. Dobbins will miss the game at Pittsburgh for conduct detrimental to the team. Dobbins left the facility after showing up that day, and Payton declined to explain further. ESPN notes he is believed to be the first Broncos player suspended midseason for that reason since Brandon Marshall in 2009.",
+       "text": "Nix's three turnovers sink Broncos in Pittsburgh",
+       "summary": "Bo Nix went 22 of 40 for 169 yards with no touchdowns and a 44.7 passer rating, the worst of his career. He lost a fumble that T.J. Watt returned for a score and threw interceptions to Jalen Ramsey and Daylen Everette. Nix said he let the team down, and Sean Payton said the one-dimensional offense was more on him than on his quarterback.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game"
+        "name": "The Gazette",
+        "url": "https://gazette.com/2026/11/27/broncos-steelers-bo-nix-turnovers/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Three Broncos ruled out for the Steelers game",
-       "summary": "Denver's final report lists defensive lineman Sai'Vion Jones (hamstring), safety Taylor Rapp (quadriceps) and tight end Caleb Lohner (foot) as out. Running back Tyler Badie (thumb) is questionable and still on injured reserve. Denver also lost Dobbins to suspension, which thins the backfield further.",
+       "text": "Badie is back, Harvey nears return, Jones goes on IR",
+       "summary": "Tyler Badie returned after four games out with a broken right thumb. Running back RJ Harvey has spent four games on injured reserve with a knee injury and is expected back. Defensive lineman Sai'vion Jones, with a hamstring injury, joined Eyioma Uwazurike on IR. Troy Franklin left with a forearm injury in the first half and returned, and Taylor Rapp (quad) was inactive.",
        "source": {
-        "name": "Steelers Depot",
-        "url": "https://steelersdepot.com/2026/11/broncos-week-12-thursday-injury-report-three-players-ruled-out-one-more-questionable/"
+        "name": "The Gazette",
+        "url": "https://gazette.com/2026/11/27/road-woes-resurface-for-broncos-in-ugly-loss-at-pittsburgh/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Rookie Jonah Coleman earns AFC Offensive Player of the Week",
-       "summary": "Coleman ran 24 times for 111 yards and three touchdowns in the win over Las Vegas, plus four catches for 18 yards. The fourth-round pick is the first Broncos offensive player honored this season. Payton is watching his workload on a short week.",
+       "text": "Coleman gets 26 yards a week after 111",
+       "summary": "Rookie Jonah Coleman ran for 111 yards against the Raiders and managed 26 against Pittsburgh with J.K. Dobbins suspended. Cody Schrader added 27 yards on seven carries in the fourth quarter. Payton would not say whether Dobbins plays Dec. 6, only that \"we'll see.\"",
        "source": {
-        "name": "Heavy",
-        "url": "https://heavy.com/sports/nfl/denver-broncos/coleman-shares-message-potw-dobbins-steelers/"
+        "name": "The Gazette",
+        "url": "https://gazette.com/2026/11/27/road-woes-resurface-for-broncos-in-ugly-loss-at-pittsburgh/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "38: points Denver put on the Raiders last Sunday",
-       "summary": "The Broncos beat Las Vegas 38-24 in their last game and sit 8-2 overall, 4-1 in the AFC and 3-2 on the road. They now head to a Steelers team that is 4-0 at home.",
+       "text": "205: yards of total offense for Denver in Pittsburgh",
+       "summary": "The Broncos went 4 of 15 on third down and ran for 73 yards on 26 carries. Their only points came from a safety and a Wil Lutz field goal, and Lutz missed a 53-yarder to open the fourth quarter. Denver punted six times and never reached the end zone.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/betting/news/broncos-steelers-prediction-odds-time-nfl-week-12-black-friday-picks/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/broncos-vs-steelers-takeaways-jonah-234800127.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Broncos at Steelers today, 3 p.m. ET on Prime Video",
-       "summary": "Denver visits Acrisure Stadium on Black Friday against a 6-4 Pittsburgh team that waived Aaron Rodgers on Wednesday and will start Mason Rudolph. Rain and wind are in the forecast. Watch how Denver splits carries between Coleman and Badie.",
+       "text": "Broncos host 1-9 Dolphins on Dec. 6",
+       "summary": "Denver is back at Empower Field at Mile High on Sunday, Dec. 6, at 4:05 p.m. ET on Fox against Miami. The Broncos are 5-0 at home and 3-3 on the road. Kansas City also sits at 8-3, so the AFC West race is level heading into the stretch run.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/betting/news/broncos-steelers-prediction-odds-time-nfl-week-12-black-friday-picks/"
+        "name": "Yardbarker",
+        "url": "https://www.yardbarker.com/nfl/articles/broncos_loss_to_steelers_lets_chiefs_tie_them_at_8_3_atop_afc_west/s1_17615_44628896"
        }
       }
      ]
@@ -765,51 +765,51 @@
      "abbr": "KC",
      "name": "Kansas City Chiefs",
      "record": "8-3",
-     "headline": "Bills beat Chiefs on last-second field goal",
+     "headline": "Special teams cost Chiefs in Buffalo",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Tyler Bass kicks Bills past Chiefs as time expires",
-       "summary": "Buffalo won on a 57-yard Bass field goal at the gun, 13-10, in a rainy Thanksgiving night game. Patrick Mahomes threw for 174 yards and no touchdowns. A tipped punt gave the Bills a short field, and Kansas City managed five three-and-outs.",
+       "text": "Special teams errors doom Chiefs in 13-10 loss",
+       "summary": "A shanked punt, a dropped snap, penalties and another Harrison Butker miss piled up in Buffalo. The deciding play came with 22 seconds left, when Matt Araiza's punt was tipped and Greg Dortch returned it 17 yards to set up Tyler Bass's 57-yard winner. Andy Reid said he still has confidence in special teams coach Dave Toub, adding \"we've got to do better.\"",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/bills-top-chiefs-thanksgiving-via-044621013.html"
+        "name": "KRCG",
+        "url": "https://krcgtv.com/sports/content/chiefs-can-lay-blame-for-13-10-loss-in-buffalo-squarely-on-their-struggling-special-teams"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Kenneth Walker out a third straight game with groin strain",
-       "summary": "ESPN reports Walker has a grade-two groin strain from the Nov. 8 game against the Jets, and the Chiefs held him out on the short week. Guard Trey Smith is expected back, while tackle Jaylon Moore (ankle) was out.",
+       "text": "Walker misses a third game, line takes ankle hits",
+       "summary": "Running back Kenneth Walker III missed his third straight game with a groin injury that has been recurring. Right tackle Jaylon Moore was out with an ankle injury, and right guard Trey Smith hurt his ankle in his first game back from a concussion. Receiver Jalen Royals sprained an ankle, and lineman Joshua Ezeudu left briefly and returned.",
        "source": {
-        "name": "ESPN",
-        "url": "https://espn.com/nfl/story/_/id/50594656/chiefs-rb-kenneth-walker-iii-groin-thursday-vs-bills"
+        "name": "KRCG",
+        "url": "https://krcgtv.com/sports/content/chiefs-can-lay-blame-for-13-10-loss-in-buffalo-squarely-on-their-struggling-special-teams"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Emmett Johnson carries the load again in Walker's place",
-       "summary": "The rookie started and ran 17 times for 72 yards and a second-quarter touchdown against Buffalo. Travis Kelce added four catches for 71 yards and passed 1,300 career receptions.",
+       "text": "Emmett Johnson sets a rookie touchdown mark",
+       "summary": "The fifth-round rookie started for Walker and scored from a yard out in the third quarter. That gave him a touchdown in five straight games, a Chiefs rookie record. Johnson carried 17 times for 72 yards.",
        "source": {
-        "name": "ClutchPoints via Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/chiefs-most-blame-thanksgiving-loss-085111649.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "8 of 16: Butker's field goals from 40 yards or longer",
-       "summary": "Harrison Butker missed a 46-yarder wide right with about six minutes left, with the Chiefs trailing. He now has eight misses this season and a field goal rate just over 65 percent.",
+       "text": "9: missed kicks for Butker this season, tied for the NFL high",
+       "summary": "Harrison Butker pushed a 46-yard attempt wide right with about six minutes left in Buffalo. He and Packers kicker Trey Smack share the league lead in misses this season. Butker's 24 misses since 2024 are the most in the NFL.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/andy-reid-hints-possibility-change-082455505.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Chiefs at Rams on Thursday night, Dec. 3",
-       "summary": "Kansas City plays at SoFi Stadium on Prime Video, 8:15 p.m. ET, on another short week. Andy Reid said after the loss he will make no decision on Butker yet, so watch the kicker spot.",
+       "text": "Chiefs travel to the Rams on a short week",
+       "summary": "Kansas City plays at Los Angeles on Thursday, Dec. 3, at 8:15 p.m. ET on Prime Video. The Chiefs are 8-3 and level with Denver atop the AFC West. Watch Walker's status and whether the special teams unit cleans up.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/teams/KC/kansas-city-chiefs/schedule/"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50582828/2026-nfl-buffalo-bills-kansas-city-chiefs-thanksgiving"
        }
       }
      ]
@@ -818,21 +818,21 @@
      "abbr": "LV",
      "name": "Las Vegas Raiders",
      "record": "4-7",
-     "headline": "Mendoza and Raiders head to Cleveland on SNF",
+     "headline": "Raiders chase a win in Cleveland with Bowers iffy",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Rookie Mendoza gets a Sunday night stage in Cleveland",
-       "summary": "The Raiders visit the Browns on Sunday Night Football after Denver beat them 38-24. Maxx Crosby told reporters the No. 1 pick is the same guy every day and puts the work first. NBC's playoff picture says the rest of Las Vegas's season is about developing Mendoza.",
+       "text": "Raiders carry a three-game skid into Cleveland",
+       "summary": "Las Vegas has lost three straight, two of them with rookie Fernando Mendoza under center. Mendoza was sacked five times and pressured 16 times in the 38-24 loss to Denver. Coach Klint Kubiak is pushing for a better result in the Sunday night game against the Browns.",
        "source": {
-        "name": "Heavy",
-        "url": "https://heavy.com/sports/nfl/las-vegas-raiders/maxx-crosby-fernando-mendoza-browns-game/"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50569797/fernando-mendoza-settling-raiders-starting-quarterback"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Bowers limited again, two defensive tackles sit out",
-       "summary": "Tight end Brock Bowers (ankle) was limited Wednesday and Thursday after missing the Denver game. Defensive tackles Adam Butler (concussion) and Tim Keenan (knee) did not practice either day. Tonka Hemingway (stinger) went from limited to out of practice Thursday.",
+       "text": "Bowers questionable; three tackles and a guard out",
+       "summary": "Tight end Brock Bowers did not practice Friday with an ankle injury and is questionable. Defensive tackles Adam Butler (concussion), Tonka Hemingway (stinger) and Tim Keenan III (knee) are out, along with Jackson Powers-Johnson (Achilles). Patrick Johnson, JJ Pegues and Darrell Luter Jr. are questionable.",
        "source": {
         "name": "Raiders.com",
         "url": "https://www.raiders.com/news/raiders-browns-week-12-injury-report"
@@ -840,29 +840,29 @@
       },
       {
        "cat": "Player Spotlight",
-       "text": "Mendoza throws three touchdowns in loss to Denver",
-       "summary": "The rookie went 18 of 37 for 267 yards, three touchdowns and one interception, an 88.5 passer rating. Browns defensive coordinator Mike Rutenberg praised his ability to make plays with his arm and his legs.",
+       "text": "Bowers has 676 yards despite missing three games",
+       "summary": "Brock Bowers has 50 catches for 676 yards and six touchdowns this season. He has missed three games, including last week against Denver with ankle and quadriceps injuries. His status is the biggest variable for Mendoza's third start.",
        "source": {
-        "name": "Heavy",
-        "url": "https://heavy.com/sports/nfl/las-vegas-raiders/maxx-crosby-fernando-mendoza-browns-game/"
+        "name": "BVM Sports",
+        "url": "https://bvmsports.com/2026/11/25/raiders-vs-browns-preview-sunday-night-football-matchup/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "38: points Las Vegas allowed to Denver",
-       "summary": "The Raiders lost 38-24 in their last game. Cleveland has a lead runner in Quinshon Judkins with 423 rushing yards and four touchdowns in nine games, and the Raiders have struggled against the run all year.",
+       "text": "7: games the Raiders defense has allowed 30-plus points",
+       "summary": "Denver scored 38 on Las Vegas last Sunday, the seventh time the defense has given up 30 or more. The Raiders also committed nine penalties in that game. Denver led 17-0 early.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/betting/news/broncos-steelers-prediction-odds-time-nfl-week-12-black-friday-picks/"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50569797/fernando-mendoza-settling-raiders-starting-quarterback"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Raiders at Browns, Sunday night, 8:20 p.m. ET on NBC",
-       "summary": "The game was flexed into the Sunday night slot. Cleveland is 6-4 and several Browns starters are listed on the injury report, including receiver Denzel Boston (quad). Watch whether the Raiders can slow Judkins.",
+       "text": "Raiders at Browns on Sunday night football",
+       "summary": "Las Vegas visits Cleveland on Sunday, Nov. 29, at 8:20 p.m. ET on NBC. The Browns are 6-4, 4-0 at home and coming off a bye. Their defense allows 201.1 passing yards per game, sixth best in the league, and has 27 sacks.",
        "source": {
-        "name": "NFL.com",
-        "url": "https://www.nfl.com/news/nfl-picks-week-12-2026-nfl-season"
+        "name": "BVM Sports",
+        "url": "https://bvmsports.com/2026/11/25/raiders-vs-browns-preview-sunday-night-football-matchup/"
        }
       }
      ]
@@ -871,51 +871,51 @@
      "abbr": "LAC",
      "name": "Los Angeles Chargers",
      "record": "1-9",
-     "headline": "Herbert in concussion protocol before Patriots",
+     "headline": "Uiagalelei gets first start as Herbert sits",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Justin Herbert enters concussion protocol",
-       "summary": "Jim Harbaugh confirmed Herbert reported symptoms after the Week 11 loss to the Jets and must clear every protocol step. DJ Uiagalelei is next up, and the team plans to promote Jake Browning from the practice squad. The Chargers are 1-9.",
+       "text": "Herbert out; DJ Uiagalelei makes first NFL start",
+       "summary": "Coach Jim Harbaugh ruled Justin Herbert out against the Patriots while he remains in concussion protocol. Uiagalelei, a 25-year-old former undrafted free agent, threw a touchdown in relief in Week 9. Trey Lance is on injured reserve, so Jake Browning was promoted as the backup.",
        "source": {
-        "name": "Chargers.com",
-        "url": "https://www.chargers.com/news/justin-herbert-injury-update-nfl-protocol-week-12"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Four Chargers watched after Jets loss",
-       "summary": "Running back Keaton Mitchell (knee) played four snaps, and edge rusher Akheem Mesidor (ankle) left in the second quarter. Linebacker Daiyan Henley (knee) did not practice and Tarheeb Still missed the game. Harbaugh said all depend on treatment this week.",
+       "text": "Henley and Mitchell out; Mesidor doubtful",
+       "summary": "Linebacker Daiyan Henley and running back Keaton Mitchell are out with knee injuries. Akheem Mesidor (ankle) and Brenen Thompson (hamstring) are doubtful. David Njoku, Tarheeb Still, Dalvin Tomlinson, Tuli Tuipulotu and Kendall Williamson are questionable.",
        "source": {
         "name": "Chargers.com",
-        "url": "https://www.chargers.com/news/justin-herbert-injury-update-nfl-protocol-week-12"
+        "url": "https://www.chargers.com/news/justin-herbert-akheem-mesidor-patriots-injury-report-2026"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Omarion Hampton runs for 105 in the lone win",
-       "summary": "In the Week 10 win over Baltimore, Hampton carried 22 times for 105 yards and a touchdown. The line helped the team run for a season-high yardage and the defense bottled up Derrick Henry.",
+       "text": "Omarion Hampton is the offense's best option",
+       "summary": "Hampton ran for 105 yards and a touchdown on 22 carries against Baltimore and 89 yards on 14 carries against the Jets. With a first-time starter at quarterback, the run game is the Chargers' main path to moving the ball.",
        "source": {
-        "name": "Chargers.com",
-        "url": "https://www.chargers.com/news/jets-week-11-jim-harbaugh-tarheeb-still-2026"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/patriots-chargers-week-12-preview-183409939.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "160: Chargers rushing yards, a season high",
-       "summary": "Los Angeles set its best rushing day of the year in the Week 10 win over the Ravens. The team's only win of the season came with a run game and a defense that Harbaugh called a heck of a run wall.",
+       "text": "39: sacks the Chargers line has allowed, second most in the NFL",
+       "summary": "All 39 came with Herbert at quarterback. Uiagalelei now faces a Patriots front that wants to pressure an inexperienced passer. Both teams protect the ball poorly: New England has 20 giveaways and the Chargers have 19.",
        "source": {
-        "name": "Chargers.com",
-        "url": "https://www.chargers.com/news/jets-week-11-jim-harbaugh-tarheeb-still-2026"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/patriots-chargers-week-12-preview-183409939.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Patriots at Chargers, Sunday 4:05 p.m. ET on CBS",
-       "summary": "New England visits SoFi Stadium for the Week 12 game, which the NFL moved off Sunday night. Whether Herbert, Uiagalelei or Browning starts is the main question.",
+       "text": "Patriots visit SoFi on Sunday afternoon",
+       "summary": "Los Angeles hosts New England on Sunday, Nov. 29, at 4:05 p.m. ET on CBS. The Patriots are 5-5, coming off a bye, and start Tommy DeVito with Drake Maye out. Patriots coach Mike Vrabel said his team is focused on stopping the run and Chargers' scheme.",
        "source": {
-        "name": "NFL.com",
-        "url": "https://www.nfl.com/news/nfl-picks-week-12-2026-nfl-season"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50615818/qb-dj-uiagalelei-start-chargers-justin-herbert-concussion-protocol"
        }
       }
      ]
@@ -930,51 +930,51 @@
      "abbr": "DAL",
      "name": "Dallas Cowboys",
      "record": "5-7",
-     "headline": "38 points, still a Thanksgiving collapse",
+     "headline": "Jones backs Schottenheimer after collapse",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Cowboys blow a 21-point lead and lose 39-38 on Thanksgiving",
-       "summary": "Dallas led 31-10 in the third quarter and lost to Philadelphia on a 59-yard Jake Elliott field goal with two seconds left. The Eagles scored the final 15 points of the game. The loss leaves the Cowboys chasing the division leading Giants.",
+       "text": "Jones backs Schottenheimer after Thanksgiving collapse",
+       "summary": "Jerry Jones said he does not expect a coaching change \"at this juncture,\" though he added that his confidence does not come from what he saw against Philadelphia. Dallas led 28-10 at the half and lost 39-38. Schottenheimer is 12-16-1 as head coach and has five games left to change the conversation.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261127-bfre2.html"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/jerry-jones-still-confident-about-cowboys-hc-brian-schottenheimer-doesnt-expect-coaching-change-after-thanksgiving-loss-to-eagles-022753402.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Quinnen Williams leaves a play hurt in the third quarter",
-       "summary": "The Eagles live blog logged Quinnen Williams as injured on a third quarter play against Philadelphia. It gave no diagnosis and no return status, so his availability for the Seattle trip is unknown. Watch the first practice report next week.",
+       "text": "Quinnen Williams exits with a back injury",
+       "summary": "Williams left in the fourth quarter and did not return. He had four tackles, a tackle for loss and a sack before he went down, which gave him nine sacks this season. Schottenheimer was not asked about his status after the game, so the next update comes with the Seattle week of practice. Malachi Lawrence, on IR, can return as early as Week 13.",
        "source": {
-        "name": "PhiladelphiaEagles.com",
-        "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott"
+        "name": "Dallas Cowboys",
+        "url": "https://www.dallascowboys.com/news/updates-november-2026"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Javonte Williams scores three times in a loss",
-       "summary": "Williams carried 29 times for 101 yards and two touchdowns, then added a receiving touchdown. Dak Prescott went 19 of 28 for 291 yards, two touchdowns and an interception. CeeDee Lamb caught seven passes for 134 yards.",
+       "text": "CeeDee Lamb breaks a receptions record in a loss",
+       "summary": "Lamb caught seven passes for 134 yards against Philadelphia. Those catches pushed him to 666 for his career, the most by any player in his first seven NFL seasons. Javonte Williams also scored three touchdowns, tying his career high.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261126-gap2250-eaglescowboys1.html"
+        "name": "Dallas Cowboys",
+        "url": "https://www.dallascowboys.com/news/updates-november-2026"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "38: points Dallas scored and still lost",
-       "summary": "The Cowboys scored 38 against the Eagles and lost by one. They also led by 21 points. Philadelphia's comeback from that deficit is the largest in Thanksgiving history.",
+       "text": "4: home losses this year when Dallas scored 30 or more",
+       "summary": "The Cowboys set an NFL record with their fourth home loss in a season despite scoring at least 30 points. They have scored 375 points and allowed 351 through 12 games. A blocked punt returned for a touchdown and a 55-yard kickoff return helped Philadelphia erase the 21-point deficit.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261126-gap2250-eaglescowboys1.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/recap?gameId=401873080"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Cowboys head to Seattle on Monday night, Dec. 7",
-       "summary": "Dallas plays at the Seahawks on Monday, Dec. 7 at 7:15 p.m. ET on ESPN. The Cowboys then take their bye in Week 14. They have a quick turnaround from a one-point loss, so watch how the defense closes games.",
+       "text": "Cowboys get 11 days before Seattle on Monday night",
+       "summary": "Dallas visits Seattle on Monday, Dec. 7 at 8:15 p.m. ET on ESPN. Schottenheimer said the staff will review all 12 games and clean up the special teams breakdowns from Thursday. The long layoff gives the defense time to sort out its back and secondary injuries.",
        "source": {
-        "name": "DallasCowboys.com",
-        "url": "https://www.dallascowboys.com/news/nfl-announces-cowboys-2026-complete-17-game-schedule"
+        "name": "Athlon Sports",
+        "url": "https://athlonsports.com/nfl/dallas-cowboys/brian-schottenheimer-reveals-cowboys-plan-after-thanksgiving-collapse-against-eagles"
        }
       }
      ]
@@ -983,51 +983,51 @@
      "abbr": "NYG",
      "name": "New York Giants",
      "record": "6-3-1",
-     "headline": "Giants lead the East heading to Indy",
+     "headline": "Giants seek a win at Indy to keep the East",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Giants beat Jaguars 23-18 and hold the division lead",
-       "summary": "New York improved to 6-3-1 with a win over Jacksonville at MetLife Stadium. The Giants gained only 238 yards but forced two turnovers. Their defense carried the day.",
+       "text": "Giants face a must-win stretch starting in Indy",
+       "summary": "New York leads the NFC East at 6-3-1 and visits a 3-8 Colts team on Sunday. San Francisco, Seattle, Cleveland and Detroit follow. The Giants' game plan centers on keeping Anthony Richardson from beating them with his legs.",
        "source": {
-        "name": "FOX Sports",
-        "url": "https://www.foxsports.com/nfl/week-11-jacksonville-jaguars-vs-new-york-giants-nov-22-2026-game-boxscore-11279"
+        "name": "Big Blue Interactive",
+        "url": "https://bigblueinteractive.com/2026/11/27/preview-new-york-giants-at-indianapolis-colts-november-29-2026/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Abdul Carter day-to-day with ankle and calf issues",
-       "summary": "Carter did not practice Wednesday. Coach John Harbaugh said he should be fine for the game. Shelby Harris and Dru Phillips also sat out with illness, and Isaiah Likely (groin) and Arvell Reese (back) were limited.",
+       "text": "Abdul Carter clears the week with no designation",
+       "summary": "Carter missed the first two practices of the week with a calf injury and an illness, then went limited on Friday. He carries no game designation for Sunday. Defensive lineman Shelby Harris is out with an illness, and Greg Newsome is out at least four more weeks.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/giants/onsi/giants-abdul-carter-injury-update-colts-week-12-01m8a5fw0tz7"
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/fantasy/football/news/giants-abdul-carter-good-to-go-for-week-12/"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Abdul Carter earns NFC Defensive Player of the Week",
-       "summary": "Carter had two sacks, five quarterback hits and four tackles against Jacksonville. Next Gen Stats credited him with 12 pressures. He now has four sacks and 13 quarterback hits this season.",
+       "text": "Arvell Reese leads the league in solo tackles",
+       "summary": "Entering the Jaguars game, Reese had 53 solo tackles, the most in the NFL, along with 81 total tackles, 4.5 sacks and eight tackles for loss. He earned NFC Defensive Player of the Week after a three-sack game against the Eagles. He practiced fully Friday and has no designation.",
        "source": {
         "name": "Giants.com",
-        "url": "https://www.giants.com/news/abdul-carter-named-nfc-defensive-player-of-the-week"
+        "url": "https://www.giants.com/news/week-11-jacksonville-jaguars-jj-mccarthy-malik-nabers-isaiah-likely-arvell-reese-deonte-banks-greg-newsome-john-harbaugh"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "238: yards the Giants needed to beat Jacksonville",
-       "summary": "Jacksonville out-gained New York 354 to 238. The Jaguars committed two turnovers to the Giants' one. J.J. McCarthy threw for 173 yards and a touchdown, and Malik Nabers caught seven passes for 55 yards and a score.",
+       "text": "30th: where the Colts rank in total offense",
+       "summary": "Indianapolis averages about 276 yards per game, and its defense gives up about 27 points per game. The Giants rank eighth in yards allowed and fifth against the pass. The mismatch favors New York on paper, but the run defense ranks 18th.",
        "source": {
-        "name": "FOX Sports",
-        "url": "https://www.foxsports.com/nfl/week-11-jacksonville-jaguars-vs-new-york-giants-nov-22-2026-game-boxscore-11279"
+        "name": "Big Blue Interactive",
+        "url": "https://bigblueinteractive.com/2026/11/27/preview-new-york-giants-at-indianapolis-colts-november-29-2026/"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Giants visit the 3-8 Colts on Sunday",
-       "summary": "New York plays at Indianapolis on Sunday, Nov. 29 at 1 p.m. ET on FOX. The Colts are 3-8. A road win keeps the Giants ahead in the NFC East before San Francisco visits MetLife in Week 13.",
+       "text": "Giants at Colts, Sunday at 1 p.m. ET on Fox",
+       "summary": "The game is at Lucas Oil Stadium. Watch whether the Giants can contain Jonathan Taylor, who runs for about 113 yards per game, and keep Richardson in the pocket. J.J. McCarthy and the offense also need to protect the ball against a Colts defense that ranks 29th against the run.",
        "source": {
-        "name": "Giants.com",
-        "url": "https://www.giants.com/schedule/2026/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/colts-face-abdul-carter-giants-011032520.html"
        }
       }
      ]
@@ -1036,51 +1036,51 @@
      "abbr": "PHI",
      "name": "Philadelphia Eagles",
      "record": "4-7",
-     "headline": "Eagles rally from 21 down in Dallas",
+     "headline": "Milton and Elliott keep Eagles' season alive",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Elliott's 59-yarder sinks Dallas, 39-38",
-       "summary": "Philadelphia trailed 31-10 in the third quarter and won on a Jake Elliott field goal with two seconds left. The Eagles scored 22 points in the fourth quarter. It is the largest comeback in Thanksgiving history and moves them to 4-7.",
+       "text": "Milton keeps Eagles alive with 331 yards in Dallas",
+       "summary": "Joe Milton threw for 331 yards and three touchdowns against the team he left in October, and Philadelphia scored 29 second-half points to win 39-38. Jalen Hurts is out with blood clots, and Milton has now started three games. The Eagles are 4-7 with two straight wins.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261127-bfre2.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Cooper DeJean and Dallas Goedert leave with injuries",
-       "summary": "The Eagles live blog listed cornerback Cooper DeJean as ruled out after the opening drive and tight end Dallas Goedert as ruled out after he left hurt. Saquon Barkley was treated for a stinger and listed as questionable to return. No final statuses were posted.",
+       "text": "Barkley, DeJean and Goedert all hurt on Thanksgiving",
+       "summary": "Saquon Barkley left with a stinger and did not return. Cooper DeJean was ruled out with a concussion, and Dallas Goedert hurt his shoulder and wore a sling afterward. Marcus Epps (foot) and Gabe Hall (wrist) also went to the sideline, and DeVonta Smith missed one play after a hard fall.",
        "source": {
-        "name": "PhiladelphiaEagles.com",
-        "url": "https://www.philadelphiaeagles.com/news/game-recap-eagles-at-cowboys-thanksgiving-2026-nfl-week-12-saquon-barkley-devonta-smith-joe-milton-dak-prescott"
+        "name": "Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/eagles/cowboys-thanksgiving-comeback-joe-milton-jake-elliott-nick-sirianni-20261126.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "DeVonta Smith posts a career-high 200 yards",
-       "summary": "Smith caught 11 passes for 200 yards and two touchdowns from Joe Milton. Milton finished 21 of 31 for 331 yards and three touchdown passes, plus a rushing score.",
+       "text": "Jake Elliott goes from quiet to clutch",
+       "summary": "Elliott is 13 for 14 on field goals this season and 5 for 5 from 50 yards or longer after his 59-yard game winner. He had only 12 attempts before Thursday. He credited offseason work and a few tweaks to his rhythm and tempo.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261126-gap2250-eaglescowboys1.html"
+        "name": "Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/eagles/jake-elliott-thanksgiving-cowboys-game-winner-20261127.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "7-1: Eagles on Thanksgiving since 1939",
-       "summary": "Philadelphia improved to 7-1 on Thanksgiving in its history. This one came after a 21-point deficit.",
+       "text": "64.4: air yards on Milton's touchdown to DeVonta Smith",
+       "summary": "Milton's 50-yard touchdown pass to Smith traveled 64.4 air yards, the longest by an Eagles quarterback since tracking began in 2016. Smith had a career-high 200 yards in the recap box score. ESPN's game story lists 186, so the yardage total differs by source.",
        "source": {
-        "name": "GSM Global News",
-        "url": "https://gsmglobalnews.com/article/d20261126-gap2250-eaglescowboys1.html"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Eagles travel to Arizona on Dec. 6",
-       "summary": "Philadelphia plays at the Cardinals on Sunday, Dec. 6 at 4:05 p.m. ET on FOX. The Eagles then host Indianapolis in Week 14. Watch the injury report for DeJean, Goedert and Barkley.",
+       "text": "Eagles at Cardinals on Dec. 6, then Indianapolis",
+       "summary": "Philadelphia plays at Arizona on Sunday, Dec. 6 at 4:05 p.m. ET on Fox, then hosts Indianapolis. Winning both would stretch the streak to four. The defense allowed more than 150 rushing yards and three rushing touchdowns to Dallas, so the run defense needs work.",
        "source": {
-        "name": "PhiladelphiaEagles.com",
-        "url": "https://philadelphiaeagles.com/news/eagles-schedule-release-2026"
+        "name": "ESPN",
+        "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley"
        }
       }
      ]
@@ -1089,51 +1089,51 @@
      "abbr": "WAS",
      "name": "Washington Commanders",
      "record": "4-5-1",
-     "headline": "Commanders edge Bengals, now visit Arizona",
+     "headline": "Commanders add Aiyuk, face thin Arizona",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Commanders beat Bengals 22-20 on Monday night",
-       "summary": "Washington won at Northwest Stadium to move to 4-5-1 and handed Cincinnati a loss that cost it ground in the AFC North. The Commanders trailed 17-10 in the third quarter before coming back.",
+       "text": "Commanders sign Brandon Aiyuk to practice squad",
+       "summary": "Washington added the former 49ers receiver, who has not played since 2024 because of a severe knee injury. He reunites with Jayden Daniels, his college teammate. Dan Quinn said Aiyuk will not be elevated for Sunday but looked good over two days of practice.",
        "source": {
-        "name": "FOX Sports",
-        "url": "https://www.foxsports.com/nfl/week-11-cincinnati-bengals-vs-washington-commanders-nov-23-2026-game-boxscore-11283"
+        "name": "Heavy.com",
+        "url": "https://heavy.com/sports/nfl/washington-commanders/brandon-aiyuk-update-ahead-cardinals-game/"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Jayden Daniels full on Wednesday despite sore left hand",
-       "summary": "Daniels went full with left elbow and left hand listings. Coach Dan Quinn said the non-throwing hand was swollen after a scramble but did not limit him. Cornerback Amik Robertson (ankle) did not practice.",
+       "text": "Amik Robertson out, Daniels practices in full",
+       "summary": "Cornerback Amik Robertson is out with an ankle injury and misses a second straight game. Rasul Douglas is likely to start in his place. Daniels was a full participant Wednesday and Thursday, while Treylon Burks (foot) and Charles Omenihu (rib) were limited.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/commanders/onsi/commanders-cardinals-wednesday-injury-report-week-12"
+        "name": "Commanders.com",
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-week-12-injury-report"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Boye Mafe piles up three sacks",
-       "summary": "Mafe set a career high with three sacks against Cincinnati. Antonio Williams also set a career high with nine catches.",
+       "text": "Rookie kicker Drew Stevens wins the game and an award",
+       "summary": "Stevens went 5 for 5 on field goals against Cincinnati, including the walk-off, and earned NFC Special Teams Player of the Week. He is the first rookie in franchise history with five made field goals in one game. Fellow rookie Antonio Williams added nine catches for 122 yards.",
        "source": {
-        "name": "FOX Sports",
-        "url": "https://www.foxsports.com/nfl/week-11-cincinnati-bengals-vs-washington-commanders-nov-23-2026-game-boxscore-11283"
+        "name": "Commanders.com",
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-preview-week-12-2026"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "982: Stefon Diggs ties Randy Moss on the receptions list",
-       "summary": "Diggs moved into a tie with Moss for 19th on the NFL career receptions list with 982. Chig Okonkwo caught four of five targets for 66 yards.",
+       "text": "29.4: points per game Arizona allows",
+       "summary": "The Cardinals rank 31st in scoring defense, and their offense is 29th at 17.4 points per game. Washington has won consecutive games for the first time since 2024 and can move toward .500 with a win.",
        "source": {
-        "name": "FOX Sports",
-        "url": "https://www.foxsports.com/nfl/week-11-cincinnati-bengals-vs-washington-commanders-nov-23-2026-game-boxscore-11283"
+        "name": "Commanders.com",
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-preview-week-12-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Commanders play at Arizona on Sunday",
-       "summary": "Washington visits the Cardinals on Sunday, Nov. 29 at 4:25 p.m. ET on FOX. Arizona quarterback Carson Beck is day-to-day with a back injury, and Josh Johnson is preparing to start if needed. Washington then travels to Tennessee in Week 13.",
+       "text": "Commanders at Cardinals, Sunday at 4:25 p.m. ET on Fox",
+       "summary": "The game is in Glendale. Washington leads the series 10-3 since 2002 and won 42-14 in Arizona in 2024. Watch Daniels against a weak Cardinals defense, and note that sources disagree on who starts at quarterback for Arizona.",
        "source": {
         "name": "Commanders.com",
-        "url": "https://www.commanders.com/news/commanders-announce-2026-schedule"
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-preview-week-12-2026"
        }
       }
      ]
@@ -1148,51 +1148,51 @@
      "abbr": "CHI",
      "name": "Chicago Bears",
      "record": "9-2",
-     "headline": "Odunze wins it at the gun, Bears take the North",
+     "headline": "Bears own the North, but Loveland is hurt",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Bears steal Thanksgiving in Detroit and take over the NFC North",
-       "summary": "Chicago trailed for most of the afternoon, then Caleb Williams found Rome Odunze for a 6-yard touchdown with three seconds left to beat Detroit 39-35. The win moved the Bears to 9-2 and into sole possession of first place in the division.",
+       "text": "Bears win six straight and take sole possession of the NFC North",
+       "summary": "Chicago trailed Detroit most of Thanksgiving and still walked out 9-2. Caleb Williams hit Rome Odunze for the winning touchdown with three seconds left. Ben Johnson told his team afterward that it weathered the storm.",
        "source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/nfl/news/13616878/nfl-chicago-bears-stun-detroit-lions-on-thanksgiving-with-game-winning-touchdown-in-final-three-seconds"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/ben-johnson-sounds-off-bears-132029256.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Loveland leaves with a knee injury, Kmet already out",
-       "summary": "Rookie tight end Colston Loveland hurt his knee in the first quarter and did not return. The Bears were already without Cole Kmet, who is out for the season with his own knee injury, so the tight end room is thin heading into December.",
+       "text": "Loveland is week-to-week with a knee injury, Kmet is done",
+       "summary": "Tight end Colston Loveland left in the first quarter Thursday and the team calls him week-to-week while tests continue. Cole Kmet had knee ligament surgery after the Patriots game and is out for the season. Loveland has 41 catches for 397 yards and three touchdowns.",
        "source": {
-        "name": "NFL.com",
-        "url": "https://www.nfl.com/news/thanksgiving-tripleheader-what-we-learned-from-bears-lions-eagles-cowboys-chiefs-bills"
+        "name": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/bears/2026/11/27/bears-colston-loveland-knee-injury-update-lions-cole-kmet-ben-johnson-tight-end"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Williams throws for 345 yards and two scores in Detroit",
-       "summary": "Caleb Williams went 30 of 44 for 345 yards and two touchdowns without an interception, and he added 15 yards on three carries. Odunze caught six passes for 87 yards and two touchdowns, including the winner. D'Andre Swift had seven catches for 97 yards.",
+       "text": "Rookie Sam Roush becomes Williams' security blanket",
+       "summary": "With Loveland out early, rookie tight end Sam Roush caught five passes against Detroit. Johnson called him a security blanket for the quarterback and said his role could grow. Veteran Stephen Carlson also made his first catch since 2019.",
        "source": {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25537940-caleb-williams-bears-spoil-gibbs-hat-trick-lions-box-score-stats-highlights-top-players"
+        "name": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/bears/2026/11/27/bears-colston-loveland-knee-injury-update-lions-cole-kmet-ben-johnson-tight-end"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "39: points the Bears scored in the win at Detroit",
-       "summary": "Chicago put up 39 at Ford Field and still needed every one of them, because Jahmyr Gibbs ran for 205 yards and three touchdowns for the Lions. The Bears are 1-2 in the division and 7-2 in the conference.",
+       "text": "109: yards after the catch the Bears took off Detroit's linebackers",
+       "summary": "PFF charted Malcolm Rodriguez and K.J. Britt with 149 yards allowed on 12 targets, and 109 of those came after the catch. Those throws were 28 percent of Chicago's targets but 61 percent of the yards after the catch PFF charted. It set up the Odunze 41-yarder that answered Gibbs' 70-yard score.",
        "source": {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25537940-caleb-williams-bears-spoil-gibbs-hat-trick-lions-box-score-stats-highlights-top-players"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/box-score-didnt-tell-three-124500364.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Jaguars visit Soldier Field on Dec. 6",
-       "summary": "Chicago hosts Jacksonville on Sunday, Dec. 6 at 1 p.m. ET. Watch the tight end snaps without Loveland and Kmet. The Bears meet the Lions again at Soldier Field on Jan. 3.",
+       "text": "Jaguars visit Soldier Field on Sunday, Dec. 6",
+       "summary": "Chicago hosts Jacksonville at 1 p.m. ET on Fox in Week 13. Watch who fills the tight end spot with Loveland sidelined and Kmet out. The Bears then hit Miami and Buffalo on the road before the Dec. 25 game against Green Bay.",
        "source": {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25537940-caleb-williams-bears-spoil-gibbs-hat-trick-lions-box-score-stats-highlights-top-players"
+        "name": "Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/bears/2026/11/27/bears-colston-loveland-knee-injury-update-lions-cole-kmet-ben-johnson-tight-end"
        }
       }
      ]
@@ -1201,30 +1201,30 @@
      "abbr": "DET",
      "name": "Detroit Lions",
      "record": "8-3",
-     "headline": "Gibbs runs for 205, Lions lose it at the buzzer",
+     "headline": "Lions gain 549 yards and still lose at the gun",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Lions fall 39-35 after Bears score with three seconds left",
-       "summary": "Detroit lost for the first time in seven games and dropped to 8-3, a game behind Chicago in the NFC North. The Lions had the Bears down for most of the day before Williams and Odunze connected on the last play that mattered.",
+       "text": "Lions let a Thanksgiving lead get away and drop to 8-3",
+       "summary": "Detroit's six-game win streak ended 39-35. Two Juice Scruggs false starts stalled a drive in the second quarter, and a Jared Goff red-zone interception bounced off Jameson Williams' hands. Chicago now holds the NFC North lead.",
        "source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/nfl/news/13616878/nfl-chicago-bears-stun-detroit-lions-on-thanksgiving-with-game-winning-touchdown-in-final-three-seconds"
+        "name": "Yahoo Sports (AtoZ Sports)",
+        "url": "https://sports.yahoo.com/nfl/articles/lions-scored-35-points-offense-144500070.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Hutchinson done for the year, defense stays thin",
-       "summary": "Edge rusher Aidan Hutchinson was hurt in Week 10 while celebrating a sack and is out for the rest of the season. NFL.com also notes Detroit lost Jack Campbell earlier this month, which left the defense short against Chicago's passing attack.",
+       "text": "Detroit plays Thanksgiving with five defenders out",
+       "summary": "Aidan Hutchinson, Jack Campbell, Chuck Clark, D.J. Wonnum and Ennis Rakestraw did not play. Roger McCreary left the game and missed time, and Malcolm Rodriguez played through an injury. The group still had four sacks, a safety and a fourth-down stop.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/lions-vs-bears-live-updates-130110084.html"
+        "name": "Yahoo Sports (AtoZ Sports)",
+        "url": "https://sports.yahoo.com/nfl/articles/lions-scored-35-points-offense-144500070.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Gibbs runs for 205 yards and three touchdowns",
-       "summary": "Jahmyr Gibbs carried 21 times for 205 yards and three scores and caught five passes in a losing effort. The touchdowns were his 16th, 17th and 18th of the season. Newsweek, citing ESPN Insights, says he passed Barry Sanders for the most rushing touchdowns before age 25.",
+       "text": "Gibbs passes Barry Sanders on the touchdown list",
+       "summary": "Jahmyr Gibbs ran 21 times for 205 yards and caught five passes for 42. His three scores put him past Sanders for the most rushing touchdowns in NFL history before age 25, per ESPN Insights. He is also the third player since 2000 with 16 or more touchdowns in three straight seasons.",
        "source": {
         "name": "Newsweek",
         "url": "https://www.newsweek.com/sports/nfl/lions-jahmyr-gibbs-breaks-barry-sanders-record-vs-bears-on-thanksgiving-12771918"
@@ -1232,20 +1232,20 @@
       },
       {
        "cat": "Stat of the Day",
-       "text": "146: Amon-Ra St. Brown's receiving yards on seven catches",
-       "summary": "St. Brown led the Lions through the air while Jared Goff went 25 of 36 for 313 yards, one touchdown and one interception. Jameson Williams added six catches for 68 yards.",
+       "text": "549: yards Detroit gained and still lost",
+       "summary": "The Lions out-gained Chicago and scored 35 points, including two from the defense. Pre-snap penalties hurt them, with Scruggs and Mahogany combining on back-to-back false starts before halftime. That turned third-and-2 into third-and-12.",
        "source": {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25537940-caleb-williams-bears-spoil-gibbs-hat-trick-lions-box-score-stats-highlights-top-players"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/box-score-didnt-tell-three-124500364.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Lions travel to Atlanta on Dec. 6",
-       "summary": "Detroit visits the Falcons on Sunday, Dec. 6 at 1 p.m. ET. The Lions then close out a rematch with the Bears at Soldier Field on Jan. 3, which could decide the North.",
+       "text": "Lions travel to Atlanta on Sunday, Dec. 6",
+       "summary": "Detroit visits the Falcons at 1 p.m. ET on CBS in Week 13. Watch the false starts along the interior line and how many defenders come back. The Lions then host Tennessee before the Dec. 20 NBC game at Minnesota.",
        "source": {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com/articles/25537940-caleb-williams-bears-spoil-gibbs-hat-trick-lions-box-score-stats-highlights-top-players"
+        "name": "Yahoo Sports (AtoZ Sports)",
+        "url": "https://sports.yahoo.com/nfl/articles/lions-scored-35-points-offense-144500070.html"
        }
       }
      ]
@@ -1254,51 +1254,51 @@
      "abbr": "GB",
      "name": "Green Bay Packers",
      "record": "6-5",
-     "headline": "Rams run over Packers on Thanksgiving Eve",
+     "headline": "Packers sit one spot out of the playoff field",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Packers lose 26-13 to the Rams, their second straight",
-       "summary": "Green Bay fell to 6-5 in the first Thanksgiving Eve game in league history. The Packers managed 244 yards, committed three turnovers and held the ball for just 19:20. They now sit ninth in the NFC, one spot out of the final playoff seed.",
+       "text": "Packers fall to 6-5 and sit ninth in the NFC",
+       "summary": "Green Bay is one spot out of the final wild card, and the Rams hold the tiebreaker. The article estimates about 10 wins gets a team in, which means four wins in the last six. The Netflix broadcast put the Packers' playoff odds at 14 percent.",
        "source": {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/robreischel/2026/11/25/the-good-bad-and-ugly-from-the-packers-loss-to-the-rams/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/green-bay-packers-playoff-hopes-203600545.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Watson in concussion protocol, Zeitler hurts ankle",
-       "summary": "Wide receiver Christian Watson left in the first half after a helmet-to-helmet hit and was evaluated for a concussion. Guard Kevin Zeitler also left with an ankle injury and did not return. Neither had a confirmed return date after the game.",
+       "text": "Watson in concussion protocol, Reed out for the year",
+       "summary": "Wide receiver Christian Watson left in the second quarter with a head injury after four catches for 65 yards and a touchdown. Jayden Reed is out for the season with a neck injury. That leaves Jordan Love short on targets.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/instant-analysis-packers-26-13-044458726.html"
+        "name": "Packers.com",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-rams-week-12-2026"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Parsons makes his season debut with a sack",
-       "summary": "Micah Parsons returned from his knee injury on a snap count and sacked Matthew Stafford in the first half. Forbes credits him with one sack, two quarterback hits and a tackle for loss.",
+       "text": "Parsons is back, 346 days after the knee injury",
+       "summary": "Micah Parsons was activated Tuesday and played on a snap count against the Rams. He got a sack late in the first half. He had 12.5 sacks in 14 games last year, and his 65.0 career sacks are fifth most through a player's first five seasons since 1982.",
        "source": {
-        "name": "Forbes",
-        "url": "https://www.forbes.com/sites/robreischel/2026/11/25/the-good-bad-and-ugly-from-the-packers-loss-to-the-rams/"
+        "name": "CBS Sports",
+        "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "241: rushing yards the Packers allowed to the Rams",
-       "summary": "Blake Corum ran for a career-high 184 yards and a touchdown as Los Angeles held the ball for more than 40 minutes. Green Bay ran 44 plays to the Rams' 71 and was outscored 13-0 in the second half.",
+       "text": "184: yards Blake Corum ran for on 32 carries",
+       "summary": "The Rams ran for 241 yards and held the ball 40:40 to Green Bay's 19:20. The Packers ran 44 snaps to 71 for Los Angeles. Green Bay's offense produced two three-and-outs and two Love interceptions after halftime.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/instant-analysis-packers-26-13-044458726.html"
+        "name": "Packers.com",
+        "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-rams-week-12-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Packers visit the Saints on Dec. 6",
-       "summary": "Green Bay plays at New Orleans on Sunday, Dec. 6. Kickoff time and network were not in the reports I found. Watch the run defense and whether Watson clears the protocol.",
+       "text": "Packers visit the Saints on Sunday, Dec. 6",
+       "summary": "Green Bay plays New Orleans at 1 p.m. ET on Fox in Week 13. Watch whether Watson clears the protocol and how much Parsons plays. Dolphins and Texans follow, then the Bills, then a Dec. 25 game at Chicago.",
        "source": {
         "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/instant-analysis-packers-26-13-044458726.html"
+        "url": "https://sports.yahoo.com/nfl/articles/green-bay-packers-playoff-hopes-203600545.html"
        }
       }
      ]
@@ -1307,51 +1307,51 @@
      "abbr": "MIN",
      "name": "Minnesota Vikings",
      "record": "7-3",
-     "headline": "Vikings look to bounce back against Falcons",
+     "headline": "Vikings seek a home win without Darrisaw",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Vikings try to shake off a 35-10 loss in Mexico City",
-       "summary": "Minnesota is 7-3 and third in the NFC North after the 49ers beat them 35-10 on Nov. 22. The Vikings host Atlanta on Sunday with Kirk Cousins facing his former team.",
+       "text": "Vikings need a home win and get Cousins against his old team",
+       "summary": "Minnesota is 7-3 but has not won at U.S. Bank Stadium since Oct. 25. Kirk Cousins faces Atlanta, which benched him earlier this season. The Falcons are 3-7.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/atlanta-falcons-game-preview-nfl-week-12-2026"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Addison out, Murray and Smith limited",
-       "summary": "Jordan Addison remains out after thumb surgery and is unlikely to play Sunday, per Kevin O'Connell. Kyler Murray (hamstring) and Harrison Smith (thigh) were limited in practice. Tackle Christian Darrisaw left the 49ers game with a shoulder injury.",
+       "text": "Darrisaw, Addison and Rodgers out against Atlanta",
+       "summary": "Left tackle Christian Darrisaw (shoulder), receiver Jordan Addison (thumb) and cornerback Isaiah Rodgers (thigh) did not practice all week and are out. Safety Harrison Smith is questionable with a thigh injury. Kyler Murray, practicing fully Friday with a hamstring issue, has no designation and is expected to back up Cousins.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/falcons-injury-report-week-12-2026-nfl-season"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Cousins throws 26 of 38 but a pick-six hurts",
-       "summary": "Kirk Cousins finished 26 of 38 for 235 yards against San Francisco. Ji'Ayir Brown returned one of his interceptions for a touchdown just before halftime, and the Vikings scored only 10 points.",
+       "text": "Myles Price leads the league in punt return yardage",
+       "summary": "Price has 281 punt return yards, an average of 17.6, both tops in the NFL. He was a full participant Friday after a knee and groin issue. He gives a Vikings offense short on healthy receivers a way to win field position.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/recap?gameId=401873077"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/atlanta-falcons-game-preview-nfl-week-12-2026"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "3: games Kyler Murray has missed with a hamstring strain",
-       "summary": "Murray has sat out three straight games with a Grade 2 hamstring strain and was limited in practice this week. His return would give Minnesota a second quarterback option.",
+       "text": "16.1: points per game allowed, the best mark in the league",
+       "summary": "Minnesota's defense also leads the NFL with 38 sacks. Atlanta quarterback Michael Penix Jr. has a 39.1 passer rating under pressure, and was pressured on 34.9 percent of dropbacks in the Falcons' five losses with him starting.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/atlanta-falcons-game-preview-nfl-week-12-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Falcons visit U.S. Bank Stadium on Sunday",
-       "summary": "Minnesota hosts Atlanta (3-7) on Sunday, Nov. 29 at 1 p.m. ET on FOX. Watch Cousins against his old team and how the Vikings cover for Addison.",
+       "text": "Falcons visit U.S. Bank Stadium on Sunday at 1 p.m. ET",
+       "summary": "Minnesota hosts Atlanta on Fox in Week 12. Watch Ryan Van Demark at left tackle against a Falcons front that grades second in the league as a pass rush, and Bijan Robinson, who has 951 rushing yards. Carolina visits next on Dec. 6.",
        "source": {
-        "name": "CBS Sports",
-        "url": "https://www.cbssports.com/nfl/teams/MIN/minnesota-vikings/"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/atlanta-falcons-game-preview-nfl-week-12-2026"
        }
       }
      ]
@@ -1366,30 +1366,30 @@
      "abbr": "ATL",
      "name": "Atlanta Falcons",
      "record": "3-7",
-     "headline": "Falcons return from bye needing an offense fix",
+     "headline": "Falcons face the NFL's heaviest blitz in Minnesota",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Falcons use the bye to rework a struggling offense",
-       "summary": "Atlanta sits last in the NFC South at 3-7 and heads to Minnesota with a fourth straight loss looming. Coach Kevin Stefanski says every coach self-scouted his area during the bye, with the run game getting a full breakdown. He has not said whether coordinator Tommy Rees will call plays from the box.",
+       "text": "Falcons brace for Flores and the league's heaviest blitz",
+       "summary": "Minnesota blitzes at 67.4 percent, nearly double the next team, and leads the league with 37 sacks. Atlanta comes off the bye on a three-game losing streak with a quarterback who struggles when pressured. Kevin Stefanski called pressure a risk-reward trade that leaves voids in coverage to attack.",
        "source": {
-        "name": "Yahoo Sports (Falcons Wire)",
-        "url": "https://sports.yahoo.com/articles/falcons-head-coach-kevin-stefanski-163229915.html"
+        "name": "Atlanta Falcons On SI via Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/falcons-prepare-matchup-hell-vikings-170036360.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Bergeron and Hellams miss a second straight practice",
-       "summary": "Left guard Matthew Bergeron (back) and safety DeMarcco Hellams (foot) did not practice Thursday, along with DB Billy Bowman and WRs Zachariah Branch and Jahan Dotson, all with hamstring injuries. If Hellams cannot go, Sydney Brown and newly signed Jammie Robinson would handle safety. Kyle Hinton is next up behind Bergeron.",
+       "text": "Five Falcons ruled out, including guard Matthew Bergeron",
+       "summary": "Bergeron (back), Zachariah Branch (hamstring), Billy Bowman Jr. (hamstring), Jahan Dotson (hamstring) and DeMarcco Hellams (foot) are all out Sunday. Za'Darius Smith, James Pearce Jr. and Cameron Thomas practiced fully Friday. Left tackle Jake Matthews was limited with a rest designation.",
        "source": {
-        "name": "AtlantaFalcons.com",
-        "url": "https://atlantafalcons.com/news/falcons-injury-report-s-demarcco-hellams-lg-matthew-bergeron-miss-second-consecutive-practice"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/falcons-vs-vikings-injury-report-224234947.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Gervon Dexter gives Atlanta a real interior pass rush",
-       "summary": "The fourth-year defensive tackle has 30 pressures and three sacks, and carries a 77.7 pass-rushing grade from PFF. Veteran Za'Darius Smith leads the team with 4.5 sacks. Both will go after Minnesota's offense Sunday.",
+       "text": "Za'Darius Smith leads Atlanta's pass rush at 4.5 sacks",
+       "summary": "Smith carries a rest and knee designation but practiced fully Friday. His 4.5 sacks lead the Falcons. Pearce and Thomas are also full, so Atlanta should have its edge group intact against a Vikings line missing left tackle Christian Darrisaw.",
        "source": {
         "name": "Vikings Territory",
         "url": "https://vikingsterritory.com/2026/news/analysis/enemy-wk12-atlanta-falcons"
@@ -1397,20 +1397,20 @@
       },
       {
        "cat": "Stat of the Day",
-       "text": "951: Bijan Robinson's rushing yards rank third in the NFL",
-       "summary": "Robinson heads into Week 12 with 951 rushing yards, third in the league and close to 1,000. He ran for 143 yards at 6.5 yards a carry against Minnesota last season. The Falcons will lean on him again.",
+       "text": "33.3%: Michael Penix Jr.'s on-target rate under pressure",
+       "summary": "That is the lowest mark among NFL quarterbacks, according to the numbers cited ahead of the Minnesota game. Brock Purdy sits at 65.9 percent, third in the league. Atlanta has scored an average of 10 points a game in its three straight losses.",
        "source": {
-        "name": "Goal.com",
-        "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-minnesota-vikings-v-atlanta-falcons/bltaecf0c6b642a9d6e"
+        "name": "Atlanta Falcons On SI via Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/falcons-prepare-matchup-hell-vikings-170036360.html"
        }
       },
       {
        "cat": "What's Next",
        "text": "At Minnesota, Sunday 1 p.m. ET on Fox",
-       "summary": "Atlanta (3-7) visits the 7-3 Vikings at U.S. Bank Stadium. Minnesota lost 35-10 to San Francisco last Sunday night. Watch how Atlanta handles Brian Flores' pressure packages, the point Stefanski stressed this week.",
+       "summary": "The Falcons visit the 7-3 Vikings at U.S. Bank Stadium. Atlanta won 22-6 last season, but its defense ranks near the bottom of the league. Watch whether Bijan Robinson gets early touches to keep the Vikings from pinning their ears back.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/betting/falcons-vs-vikings-prediction-odds-spread-injuries-trends-for-nfl-week-12-2026"
+        "name": "Vikings.com",
+        "url": "https://www.vikings.com/news/nfl-expert-picks-falcons-becoming-frequent-matchup-week-12"
        }
       }
      ]
@@ -1419,51 +1419,51 @@
      "abbr": "CAR",
      "name": "Carolina Panthers",
      "record": "5-5",
-     "headline": "Panthers lead the South and head to Tampa on MNF",
+     "headline": "Panthers must stop the run Bucs ran over in October",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Young wins another one late as Panthers take the division lead",
-       "summary": "Carolina beat Baltimore 35-33 for its second straight win and now sits two games ahead of the rest of the NFC South. Bryce Young drove the offense 55 yards to set up the winning field goal. The Panthers visit Tampa Bay on Monday night with a chance to stretch the lead.",
+       "text": "Panthers need a run defense fix before Tampa Bay on Monday",
+       "summary": "Carolina leads the NFC South at 5-5 but ranks 26th against the run at 127.3 yards a game. The Bucs rushed for 258 yards in a 43-13 win in Charlotte in Week 7. Todd Wash has called the defense since Ejiro Evero was fired, and the scoring defense still sits 27th.",
        "source": {
-        "name": "Panthers.com",
-        "url": "https://www.panthers.com/news/around-the-nfc-south-panthers-earn-a-two-game-lead-after-week-11"
+        "name": "Buccaneers.com",
+        "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "McMillan and Okereke sit out Thursday with foot injuries",
-       "summary": "Receiver Tetairoa McMillan and linebacker Bobby Okereke were projected as non-participants on Thursday's estimated report. Quarterback Bryce Young (foot) was projected as a full participant, and running back Jonathon Brooks (groin) is back from injured reserve. The team has not issued final game designations.",
+       "text": "Bryce Young full, Tetairoa McMillan limited for Monday",
+       "summary": "Young (foot) practiced fully Thursday and Friday. McMillan (foot) sat Thursday and was limited Friday. Linebackers Bobby Okereke (foot) and Patrick Jones (ankle) did not practice Friday, and Jaelan Phillips (ankle) was limited.",
        "source": {
-        "name": "ClutchPoints",
-        "url": "https://clutchpoints.com/nfl/carolina-panthers/panthers-news-bryce-young-crucial-injury-update-buccaneers-game"
+        "name": "Buccaneers.com",
+        "url": "https://www.buccaneers.com/news/buccaneers-panthers-injury-report-nov-27-week-12"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Chuba Hubbard keeps the ground game steady",
-       "summary": "Hubbard carries 831 rushing yards into Monday night. He ran for 120 yards and two touchdowns in his most recent game. Tampa Bay leads the league in rushing offense, so Carolina will need him to keep the ball out of Baker Mayfield's hands.",
+       "text": "Tetairoa McMillan leads Carolina with 55 catches",
+       "summary": "McMillan has 731 receiving yards, tops on the team. His foot is the injury to watch after he missed Thursday's practice. Dave Canales said he is optimistic McMillan plays despite soreness.",
        "source": {
-        "name": "BVM Sports",
-        "url": "https://bvmsports.com/2026/11/26/panthers-buccaneers-week-12-preview-bucs-face-must-win-nfc-south-test/"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/betting/articles/panthers-vs-buccaneers-prediction-odds-023554206.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "14: Young's game-winning drives in his career",
-       "summary": "The 55-yard march against Baltimore, capped by Ryan Fitzgerald's 37-yard field goal with 1:44 left, was the 14th game-winning drive of Young's career. Young threw for 254 yards and two touchdowns in the 35-33 win.",
+       "text": "11: Chuba Hubbard's rushing touchdowns this season",
+       "summary": "Hubbard has 831 rushing yards to go with the 11 scores. He ran for 120 yards and two touchdowns against Baltimore last week. Tampa Bay ranks second against the run at 82.1 yards a game.",
        "source": {
-        "name": "ESPN",
-        "url": "https://espn.com/nfl/story/_/id/50567146/young-authors-game-winning-drive-first-place-panthers"
+        "name": "Buccaneers.com",
+        "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
        }
       },
       {
        "cat": "What's Next",
        "text": "At Tampa Bay, Monday 8:15 p.m. ET on ESPN",
-       "summary": "Carolina visits Raymond James Stadium on Nov. 30. The Bucs won the Week 7 meeting 43-13 and Carolina has not won in Tampa since 2017. Watch Carolina's run defense under interim coordinator Todd Wash, since Tampa Bay ran for 258 yards in the first meeting.",
+       "summary": "A win would put Carolina three games clear of the 3-7 Bucs. Tampa Bay has taken 11 of the last 13 meetings. Watch whether Young stays clean against a Tampa Bay front that recorded five sacks in the October meeting.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/nfl/articles/3-storylines-watch-panthers-against-234713085.html"
+        "name": "Buccaneers.com",
+        "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
        }
       }
      ]
@@ -1472,51 +1472,51 @@
      "abbr": "NO",
      "name": "New Orleans Saints",
      "record": "3-7",
-     "headline": "Saints get two linemen back as the sacks pile up",
+     "headline": "Saints lose Juwan Johnson ahead of Cincinnati trip",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Saints lose a fifth one-score game as the protection breaks down",
-       "summary": "New Orleans fell 21-13 at Chicago and sits 3-7, two games behind division-leading Carolina. Tyler Shough went down six times, three of them to Jeffery Simmons. Coach Kellen Moore said Shough is battling but the whole offense has to improve.",
+       "text": "Kellen Moore stands by fourth-down call in Chicago loss",
+       "summary": "Down 21-10 with 8:51 left, the Saints went for it on fourth-and-2 at the Chicago 10 and Noah Fant's catch fell incomplete. Moore said New Orleans needed a touchdown. Tyler Shough took six sacks in the 21-13 loss, and the Saints are 3-7.",
        "source": {
-        "name": "Panthers.com (NFC South roundup)",
-        "url": "https://www.panthers.com/news/around-the-nfc-south-panthers-earn-a-two-game-lead-after-week-11"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/saints-week-11-stock-report-134500812.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "McCoy and Fuaga return to limited practice",
-       "summary": "Center Erik McCoy and right tackle Taliese Fuaga practiced on a limited basis Wednesday after missing two games. Seven Saints appeared on the report. The starting line has not finished a game together since Week 1, and tight end Juwan Johnson left the Bears game with a hamstring injury.",
+       "text": "Tight end Juwan Johnson ruled out with hamstring and wrist injuries",
+       "summary": "Johnson will miss Sunday's game at Cincinnati. He has 30 catches for 317 yards and four touchdowns through 10 games. He left the Bears game in the third quarter.",
        "source": {
-        "name": "NewOrleansSaints.com",
-        "url": "https://www.neworleanssaints.com/news/morning-break-erik-mccoy-taliese-fuage-practice-saints-news-headlines-11-26-2026"
+        "name": "ClutchPoints",
+        "url": "https://clutchpoints.com/nfl/new-orleans-saints/saints-news-juwan-johnson-gets-final-injury-status-bengals-matchup"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Chris Olave leads a thin receiver room",
-       "summary": "Olave has 866 receiving yards, sixth in the NFL, on 68 catches and 101 targets. Devaugh Vele adds 44 catches for 455 yards. The Saints are still looking for more balance after a quiet day from rookie Jordyn Tyson.",
+       "text": "Travis Etienne Jr. found room in Chicago with a 46-yard run",
+       "summary": "Etienne carried 14 times for 76 yards, 5.4 a carry. His 46-yard run in the second quarter set up Alvin Kamara's fourth-down touchdown catch, the Saints' only touchdown.",
        "source": {
-        "name": "Bengals.com",
-        "url": "https://www.bengals.com/news/week-12-2026-new-orleans-saints-opponent-preview-scouting-report"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/saints-week-11-stock-report-134500812.html"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "6: Sacks Shough took against Chicago",
-       "summary": "Shough absorbed six sacks in the loss at Soldier Field. He has taken 29 sacks on the season, sixth most among qualified passers. Any plan against Cincinnati starts with keeping him upright.",
+       "text": "56: yards on Charlie Smyth's field goal before halftime",
+       "summary": "Smyth also hit from 51 yards with 1:10 left against Chicago. He missed a 47-yarder wide right, and two of his kickoffs went out of bounds. The Saints scored just 13 points.",
        "source": {
-        "name": "Panthers.com (NFC South roundup)",
-        "url": "https://www.panthers.com/news/around-the-nfc-south-panthers-earn-a-two-game-lead-after-week-11"
+        "name": "Saints.com",
+        "url": "https://www.neworleanssaints.com/news/chicago-bears-new-orleans-saints-2026-nfl-week-11-game-recap"
        }
       },
       {
        "cat": "What's Next",
-       "text": "At Cincinnati, Sunday 1 p.m. ET",
-       "summary": "The Saints visit Paycor Stadium to face a Bengals team that lost 22-20 to Washington on Monday night. Cincinnati leads the all-time series 8-7. Watch the offensive line, which could have all five starters together for only the fourth time this season.",
+       "text": "At Cincinnati, Sunday 1 p.m. ET on CBS",
+       "summary": "The Saints face the 7-3 Bengals at Paycor Stadium and sit two games behind Carolina in the division. With Johnson out, Chris Olave and rookie Jordyn Tyson are the top receivers. Watch the protection against a Cincinnati offense the Saints' own site calls one of the league's best.",
        "source": {
-        "name": "NewOrleansSaints.com",
-        "url": "https://www.neworleanssaints.com/news/morning-break-erik-mccoy-taliese-fuage-practice-saints-news-headlines-11-26-2026"
+        "name": "ClutchPoints",
+        "url": "https://clutchpoints.com/nfl/new-orleans-saints/saints-news-juwan-johnson-gets-final-injury-status-bengals-matchup"
        }
       }
      ]
@@ -1525,39 +1525,39 @@
      "abbr": "TB",
      "name": "Tampa Bay Buccaneers",
      "record": "3-7",
-     "headline": "Bucs are out of mulligans before Carolina",
+     "headline": "Mayfield plays on, with Daniels ready if needed",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Bowles says the Bucs have no margin left",
-       "summary": "Tampa Bay fell 31-21 at Detroit to drop to 3-7, its first loss by more than one score this season. Coach Todd Bowles told reporters the team is out of mulligans. Carolina now leads the division by two games, so Monday night carries real weight.",
+       "text": "Mayfield would sit for rookie Jalon Daniels if it helps the Bucs win",
+       "summary": "Baker Mayfield, 31, practiced fully Thursday despite a foot problem and a right thumb injury. He has already missed three games after dislocating the thumb. He also has plantar fasciitis, and said he would step aside for the rookie backup if that gave Tampa Bay a better chance.",
        "source": {
-        "name": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/baker-mayfield-says-bucs-mulligans-011800761.html"
+        "name": "Heavy via Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/buccaneers-baker-mayfield-injury-ahead-123609671.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Mayfield practices fully, Winfield and Morrison sit",
-       "summary": "Quarterback Baker Mayfield (foot, right thumb) was listed as a full participant on Thursday's estimated report. Safety Antoine Winfield Jr. (ankle) and cornerback Benjamin Morrison (hamstring and back) did not practice. The final report is due Saturday.",
+       "text": "Winfield and Morrison miss another practice, Tez Johnson sits with illness",
+       "summary": "Safety Antoine Winfield Jr. (ankle) and cornerback Benjamin Morrison (hamstring and back) did not practice Friday. Wide receiver Tez Johnson was out with an illness. Mayfield, Cade Otton and Jacob Parrish were full, and Jalen McMillan was limited.",
        "source": {
-        "name": "Heavy.com",
-        "url": "https://heavy.com/sports/nfl/tampa-bay-buccaneers/buccaneers-baker-mayfield-injury-update-panthers"
+        "name": "Buccaneers.com",
+        "url": "https://www.buccaneers.com/news/buccaneers-panthers-injury-report-nov-27-week-12"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Rookie Ted Hurst III scores twice in Detroit",
-       "summary": "Hurst caught five passes for 56 yards and two touchdowns against the Lions, including a 5-yard score with eight seconds left. He gave Mayfield a bright spot in a game with four sacks and a wiped-out 80-yard Bucky Irving touchdown.",
+       "text": "Bucky Irving has scored in four straight games",
+       "summary": "Irving leads Tampa Bay with 893 rushing yards and nine touchdowns. He needs 107 yards to become the fifth Buccaneer with two 1,000-yard seasons. He and Kenneth Gainwell ran for 194 yards in the earlier win over Carolina.",
        "source": {
         "name": "Buccaneers.com",
-        "url": "https://www.buccaneers.com/news/bucs-lose-detroit-lions-week-11-2026-score-31-21"
+        "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "159.5: Tampa Bay's rushing yards per game, first in the NFL",
-       "summary": "The Bucs lead the league on the ground at 159.5 yards a game and rank second against the run at 82.1. Their passing offense ranks 32nd at 143.1. Irving has 893 rushing yards and needs 54 more to reach the franchise top 10.",
+       "text": "13,346: Mayfield's passing yards as a Buccaneer",
+       "summary": "That leaves him 189 yards behind Josh Freeman for fourth in team history. One more touchdown pass would give him 31 multi-touchdown games in Tampa Bay and tie Tom Brady for second on the franchise list.",
        "source": {
         "name": "Buccaneers.com",
         "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
@@ -1566,7 +1566,7 @@
       {
        "cat": "What's Next",
        "text": "Vs. Carolina, Monday 8:15 p.m. ET on ESPN",
-       "summary": "The Bucs host the 5-5 Panthers at Raymond James Stadium on Nov. 30. Tampa Bay won the Week 7 meeting 43-13 and has taken 11 of the last 13 in the series. A win would cut the division gap to one game.",
+       "summary": "Tampa Bay is 3-7 and two games behind the 5-5 Panthers, who lead the division. The Bucs lead the league in rushing at 159.5 yards a game but rank 32nd in passing at 143.1. Todd Bowles said the team that makes the fewest mistakes wins.",
        "source": {
         "name": "Buccaneers.com",
         "url": "https://www.buccaneers.com/news/2026-game-preview-panthers-buccaneers-week-12"
@@ -1584,51 +1584,51 @@
      "abbr": "ARI",
      "name": "Arizona Cardinals",
      "record": "3-8",
-     "headline": "Cardinals fire DC, QB Beck's back stays sore",
+     "headline": "LaFleur: rest of 2026 is about young players",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Cardinals fire Nick Rallis, hand defense to Teryl Austin",
-       "summary": "Head coach Mike LaFleur fired defensive coordinator Nick Rallis the day after a 34-7 loss at Kansas City. Senior defensive assistant Teryl Austin takes over on an interim basis for the final six games. LaFleur said the team needed a fresh voice and that he owns the fix.",
+       "text": "LaFleur calls Cardinals' final seven games an audition",
+       "summary": "Coach Mike LaFleur told reporters Friday that Arizona will not reach the playoffs, so the rest of the schedule is about seeing which young players can help next year. Josh Johnson starts again at quarterback. Rookies Joey Aguilar and Kedon Slovis are competing for the backup job.",
        "source": {
         "name": "Arizona Cardinals",
-        "url": "https://www.azcardinals.com/news/cardinals-move-on-from-nick-rallis-make-teryl-austin-defensive-coordinator"
+        "url": "https://www.azcardinals.com/news/cardinals-remain-beckless-josh-johnson-the-sequel-and-friday-before-the-commanders"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Beck sits out again with back spasms",
-       "summary": "Rookie quarterback Carson Beck did not practice Wednesday or Thursday because of back spasms, and Josh Johnson will start again if Beck cannot go. Guard Jon Gaines II (ankle) also sat out and looks set to miss a sixth straight game. Linebackers Karson Sharar (groin) and Cody Simon (calf) were limited Thursday.",
+       "text": "Beck out again; Love could return from IR soon",
+       "summary": "Carson Beck sits for a second straight start with back spasms, and LaFleur said he could be back next week. Rookie running back Jeremiyah Love is eligible to come off injured reserve for the Philadelphia game. The team will decide Monday, or may wait until after the Week 14 bye.",
        "source": {
         "name": "Arizona Cardinals",
-        "url": "https://www.azcardinals.com/news/injury-report-week-12-vs-commanders"
+        "url": "https://www.azcardinals.com/news/cardinals-remain-beckless-josh-johnson-the-sequel-and-friday-before-the-commanders"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Trey McBride sees a season-high 14 targets",
-       "summary": "McBride caught nine passes for 54 yards in the loss to the Chiefs. His 14 targets were the most he has seen this season. Johnson threw for 155 yards and a touchdown in his first start as the fourth different Arizona quarterback in four weeks.",
+       "text": "McBride sits one catch behind the NFL leader",
+       "summary": "Trey McBride has 87 receptions, second in the league behind Dallas' CeeDee Lamb by one. His 689 yards are lower than Arizona would like for that volume. Budda Baker plays his 150th game for the franchise Sunday.",
        "source": {
         "name": "Arizona Cardinals",
-        "url": "https://www.azcardinals.com/news/as-josh-johnson-takes-turn-in-quarterback-shuffle-cardinals-fall-to-chiefs"
+        "url": "https://www.azcardinals.com/news/cardinals-remain-beckless-josh-johnson-the-sequel-and-friday-before-the-commanders"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "8 of 11: Games where Arizona's defense allowed 30 or more",
-       "summary": "The Cardinals give up 29.4 points a game, which ranks 31st in the league. The offense scored just 16 points across its last three games. That pairing led LaFleur to change coordinators with six games left.",
+       "text": "29.4: Points per game Arizona allows, 31st in the NFL",
+       "summary": "The Cardinals have given up 34 points in back-to-back games to the Rams and Chiefs. They rank 26th in total defense at 355.2 yards per game and 27th against the run. Offense is not helping: 17.4 points per game ranks 29th.",
        "source": {
-        "name": "Arizona Cardinals",
-        "url": "https://www.azcardinals.com/news/cardinals-move-on-from-nick-rallis-make-teryl-austin-defensive-coordinator"
+        "name": "Commanders.com",
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-preview-week-12-2026"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Commanders visit State Farm Stadium Sunday on FOX",
-       "summary": "Arizona hosts Washington on Sunday, Nov. 29 at 4:25 p.m. ET on FOX. Watch the quarterback decision first, then how Austin's first game calling the defense goes against Jayden Daniels.",
+       "text": "Commanders at State Farm Stadium Sunday, 4:25 p.m. ET on FOX",
+       "summary": "Teryl Austin calls his first game as interim defensive coordinator. He faces Jayden Daniels, who has 1,788 passing yards and a team-high 335 rushing yards. Washington's pass defense ranks 31st, so Johnson gets a chance to move the ball.",
        "source": {
-        "name": "Arizona Cardinals",
-        "url": "https://www.azcardinals.com/news/how-to-watch-cardinals-vs-commanders-week-12"
+        "name": "Commanders.com",
+        "url": "https://www.commanders.com/news/commanders-vs-cardinals-preview-week-12-2026"
        }
       }
      ]
@@ -1637,51 +1637,51 @@
      "abbr": "LAR",
      "name": "Los Angeles Rams",
      "record": "7-4",
-     "headline": "Rams run past Packers on Thanksgiving Eve",
+     "headline": "Rams hit five straight, tight ends banged up",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Rams beat Packers 26-13 and move to 7-4",
-       "summary": "Los Angeles ran for more than 240 yards on Wednesday night at SoFi Stadium and pushed Green Bay toward the edge of the playoff race. Kyren Williams scored in the second quarter, and the defense forced a fumble and two interceptions. The win gives them a one-game lead in the standings, and the head-to-head tiebreaker makes it effectively two over Green Bay.",
+       "text": "Rams score on first three drives to beat Green Bay",
+       "summary": "Los Angeles opened with scores on its first three possessions for the first time this year and beat the Packers 26-13 for a fifth straight win. Brandon McManus kicked two field goals and Kyren Williams ran in a 7-yard touchdown. The Rams sit 7-4 and hold the seventh seed.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/packers/onsi/rams-beat-packers-run-them-almost-out-of-playoff-race"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/three-encouraging-signs-two-concerns-164600698.html"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Line depth thins; Nacua reported out for the season",
-       "summary": "Guard Steve Avila (hamstring) and tight end Terrance Ferguson (ankle, staying on injured reserve) were ruled out for the Packers game. Center Coleman Shelton (hamstring) is expected to miss four to six weeks. Defensive end Kobie Turner came off injured reserve and lineman Justin Dedich returned to practice. NFL.com reports receiver Puka Nacua had knee surgery and is likely done for the year, though earlier coverage said he stayed off injured reserve.",
+       "text": "Higbee and Allen hurt, leaving tight end depth thin",
+       "summary": "Tyler Higbee (chest) and Davis Allen (ankle) both left the Packers game. If neither can go Thursday, Colby Parkinson and rookie Max Klare may be the only healthy tight ends. Terrance Ferguson had season-ending ankle surgery, and the report lists Puka Nacua as out for the year and Davante Adams with a hamstring injury.",
        "source": {
-        "name": "Los Angeles Rams",
-        "url": "https://therams.com/news/rams-injury-report-week-12-2026-vs-packers-steve-avila-terrance-ferguson-coleman-shelton-kobie-turner"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/three-encouraging-signs-two-concerns-164600698.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Matthew Stafford finds a rhythm as targets thin out",
-       "summary": "Through 10 games Stafford has 2,623 passing yards, 19 touchdowns and 10 interceptions, per NFL.com's quarterback index. The index ranks him 14th and says he needs to stay as clean as he was against Arizona in Week 10 with the receiver injuries. He hit Konata Mumpfield for 20 yards on third-and-8 during the Packers game's key second-half touchdown drive.",
+       "text": "Corum carries the load in big personnel",
+       "summary": "Blake Corum finished with 184 rushing yards, and the Associated Press noted he ran more times than any Rams back in Sean McVay's 10 seasons. Corum said the run game works best when the Rams line up in big personnel. Kobie Turner also returned from a groin injury with three tackles.",
        "source": {
-        "name": "NFL.com",
-        "url": "https://www.nfl.com/news/nfl-qb-rankings-index-week-12-2026-nfl-season"
+        "name": "Local 10 (AP)",
+        "url": "https://www.local10.com/sports/2026/11/26/blake-corum-leads-rams-dominant-rushing-attack-in-their-5th-straight-win-26-13-over-packers/"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "184: Blake Corum's career-high rushing yards",
-       "summary": "Corum carried 32 times for 184 yards and a touchdown against Green Bay. It was the most rushing yards by a Rams player since Todd Gurley ran for 208 in 2018. The team piled up a season-high rushing total.",
+       "text": "140: Matthew Stafford's passing yards against Green Bay",
+       "summary": "Stafford averaged 6.1 yards per attempt, and his longest completion went 24 yards. He threw an interception to Ty'Ron Hopper, his fifth straight game with one. Konata Mumpfield caught four of five targets for 69 yards, nearly half the total.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50602564/packers-micah-parsons-accountability-rams-return"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/three-encouraging-signs-two-concerns-164600698.html"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Chiefs come to SoFi Thursday night, Dec. 3",
-       "summary": "The Rams host Kansas City on Thursday, Dec. 3 at 8:15 p.m. ET on Amazon Prime Video, per the original schedule, which the NFL could still flex. Los Angeles then visits the 49ers in Week 14. Watch whether the ground game holds up against a Chiefs defense that will know it is coming.",
+       "text": "Chiefs at SoFi Thursday, Dec. 3, 8:15 p.m. ET on Prime Video",
+       "summary": "Kansas City comes in at 8-3 after a loss. The Rams will watch the tight end room and whether the run game keeps working without a deep passing threat. A short week follows the Thanksgiving Eve win.",
        "source": {
-        "name": "Los Angeles Rams",
-        "url": "https://www.therams.com/news/rams-release-official-2026-schedule"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/three-encouraging-signs-two-concerns-164600698.html"
        }
       }
      ]
@@ -1690,51 +1690,51 @@
      "abbr": "SF",
      "name": "San Francisco 49ers",
      "record": "9-1",
-     "headline": "49ers lead NFC, but Purdy's ankle is a question",
+     "headline": "Purdy sits, Mac Jones starts vs. Seattle",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "49ers rout Vikings 35-10 in Mexico City to reach 9-1",
-       "summary": "San Francisco kept the NFC's top seed with its best start since 2019. Brock Purdy threw three touchdowns, safety Ji'Ayir Brown returned an interception for a score, and the pass rush pressured Kirk Cousins on 15 of 39 dropbacks. Nick Bosa recorded his first sack of the season.",
+       "text": "49ers sit Purdy, start Mac Jones against Seattle",
+       "summary": "Brock Purdy is out Sunday with an ankle sprain, his first missed game of the season. Kyle Shanahan said he does not need surgery and should return for the Giants in Week 13. San Francisco is 9-1 and holds the top seed in the NFC.",
        "source": {
-        "name": "ESPN",
-        "url": "https://www.espn.com/nfl/story/_/id/50525677/49ers-beat-vikings-sunday-night-football-mexico-city-kittle"
+        "name": "NFL.com",
+        "url": "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Purdy misses two practices with an ankle injury",
-       "summary": "Purdy did not practice Wednesday or Thursday after hurting his ankle in the second quarter against Minnesota. Kyle Shanahan called it a low ankle issue, not a high ankle sprain. Right tackle Colton McKivitz is reported out for the season with a leg injury. Mike Evans (Achilles) and Dre Greenlaw (neck) were limited Thursday.",
+       "text": "Purdy has a mid-ankle sprain, no surgery needed",
+       "summary": "Purdy hurt the ankle in the Week 11 win in Mexico City and played through it. He missed Wednesday and Thursday practices and is being shut down this week. Shanahan said it is too soon to be sure on Week 13 but called himself pretty optimistic.",
        "source": {
-        "name": "Seattle Seahawks",
-        "url": "https://www.seahawks.com/news/week-12-injury-report-seahawks-at-49ers"
+        "name": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/nfl/articles/brock-purdy-ruled-vs-seahawks-015045378.html"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Mike Evans returns with 109 yards and a touchdown",
-       "summary": "Evans came back from three games out with Achilles tendinitis and led the 49ers with six catches for 109 yards and a score against Minnesota. George Kittle added two touchdowns on three catches. Christian McCaffrey scored for the eighth straight game.",
+       "text": "Mac Jones steps in with eight starts of experience",
+       "summary": "Jones went 5-3 as a starter for San Francisco last season. He threw for 2,151 yards with 13 touchdowns and six interceptions across 11 games. Seattle's defense will test whether that run game and receiver group can carry him.",
        "source": {
-        "name": "NBC Sports Bay Area",
-        "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/live-updates-score-highlights-minnesota-vikings-2/1981025/"
+        "name": "NFL.com",
+        "url": "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "10-0: Purdy's record in games with a 140 or better rating",
-       "summary": "Purdy has 10 career games with a passer rating of 140 or higher, the most in NFL history, and San Francisco has won all 10. He went 21 of 26 for 255 yards and three touchdowns against Minnesota while facing the blitz on 77 percent of his dropbacks.",
+       "text": "118.2: Purdy's passer rating, best among NFL starters",
+       "summary": "Purdy completes 71 percent of his throws for 2,624 yards, 23 touchdowns and five interceptions. He also leads the league at 9.0 yards per attempt. The 49ers lose that production for at least one game.",
        "source": {
-        "name": "NBC Sports Bay Area",
-        "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/live-updates-score-highlights-minnesota-vikings-2/1981025/"
+        "name": "NFL.com",
+        "url": "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start"
        }
       },
       {
        "cat": "What's Next",
-       "text": "Seahawks visit Levi's Stadium Sunday at 4:25 p.m. ET",
-       "summary": "San Francisco hosts Seattle on Sunday, Nov. 29 on FOX. Purdy's practice status Friday and Saturday decides the plan, and the Niners will also find out whether Sam Darnold is back across from them.",
+       "text": "Seahawks at Levi's Stadium Sunday, 4:25 p.m. ET on FOX",
+       "summary": "The 49ers won 32-29 in Seattle on Oct. 11 and chase a season sweep and their 10th win. Seattle is the reigning Super Bowl champion and plays its first game at Levi's since winning the title. Watch whether Jones keeps Seattle's pass rush honest.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/seahawks/onsi/sam-darnold-injury-update-has-seahawks-keeping-49ers-in-the-dark"
+        "name": "49ers Webzone",
+        "url": "https://www.49erswebzone.com/articles/205519-49ers-seahawks-watch-stream-listen/"
        }
       }
      ]
@@ -1743,51 +1743,51 @@
      "abbr": "SEA",
      "name": "Seattle Seahawks",
      "record": "6-4",
-     "headline": "Seahawks ready Darnold for Sunday at San Francisco",
+     "headline": "Darnold returns for the Santa Clara trip",
      "stories": [
       {
        "cat": "Biggest Story",
-       "text": "Darnold practices fully and is set to start at San Francisco",
-       "summary": "Sam Darnold missed two games with quad and rib injuries, then took full reps Wednesday and Thursday. Mike Macdonald said Darnold was optimistic and the team would decide after practice. Drew Lock won the games in between.",
+       "text": "Seahawks take the champions' road trip to Santa Clara",
+       "summary": "Seattle plays its first game at Levi's Stadium since winning the Super Bowl, and San Francisco will be without Brock Purdy. The Seahawks sit 6-4 and have won two straight. A win would also avoid a season sweep by the 49ers.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/seahawks/onsi/sam-darnold-injury-update-has-seahawks-keeping-49ers-in-the-dark"
+        "name": "NFL.com",
+        "url": "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start"
        }
       },
       {
        "cat": "Injury Report",
-       "text": "Lucas, Reed and Milroe sit; Nwosu added",
-       "summary": "Tackle Abraham Lucas (ankle), defensive tackle Jarran Reed (toe) and quarterback Jalen Milroe (illness) did not practice Thursday. Linebacker Uchenna Nwosu (ankle) is new to the report, and receiver Jaxon Smith-Njigba (ankle) was limited. Charles Cross went full after being limited Wednesday.",
+       "text": "Nelson, Lucas and Reed out; Cross and Williams back",
+       "summary": "Left guard Quenton Nelson (knee), right tackle Abraham Lucas (ankle) and defensive tackle Jarran Reed (toe) are ruled out. Charles Cross returns at left tackle after three missed games, and Leonard Williams is back from a stinger. Mike Macdonald hinted Williams may be on a snap count.",
        "source": {
-        "name": "Seattle Seahawks",
-        "url": "https://www.seahawks.com/news/week-12-injury-report-seahawks-at-49ers"
+        "name": "Seattle Sports",
+        "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/sam-darnold-will-start-seahawks-rule-out-just-3-players-vs-49ers"
        }
       },
       {
        "cat": "Player Spotlight",
-       "text": "Drew Lock is 3-0 as a fill-in starter",
-       "summary": "Seattle is 4-0 in games Lock has played this season. In the 21-13 win over Las Vegas on Nov. 15 he went 14 of 17 for 240 yards and two touchdowns with no interceptions, but lost two fumbles for his first turnovers as a starter this year.",
+       "text": "Darnold returns after two missed games",
+       "summary": "Sam Darnold practiced fully this week after missing two games with a quad injury and a cracked rib. Macdonald said Darnold is healthy but not fully healthy. In the Oct. 11 loss to San Francisco he threw for 195 yards and a touchdown.",
        "source": {
-        "name": "Associated Press via Your Valley",
-        "url": "https://www.yourvalley.net/stories/jaxon-smith-njigbas-historic-season-continues-as-seahawks-head-into-bye-week-at-6-4,741482"
+        "name": "Seattle Sports",
+        "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/sam-darnold-will-start-seahawks-rule-out-just-3-players-vs-49ers"
        }
       },
       {
        "cat": "Stat of the Day",
-       "text": "1,207: Jaxon Smith-Njigba's receiving yards through 10 games",
-       "summary": "Smith-Njigba had 79 catches and 10 touchdowns entering the bye, and no other receiver had reached 1,000 yards. He accounts for 52 percent of Seattle's receiving yards. He posted 171 yards and a 71-yard score against the Raiders.",
+       "text": "33-25: Seattle's lead in the all-time series with San Francisco",
+       "summary": "The 49ers took the last meeting 32-29 and hold a one-game streak. San Francisco's largest win streak in the series is six, and Seattle's is 10. The Seahawks are trying to avoid a sweep.",
        "source": {
-        "name": "Associated Press via Your Valley",
-        "url": "https://www.yourvalley.net/stories/jaxon-smith-njigbas-historic-season-continues-as-seahawks-head-into-bye-week-at-6-4,741482"
+        "name": "49ers Webzone",
+        "url": "https://www.49erswebzone.com/articles/205519-49ers-seahawks-watch-stream-listen/"
        }
       },
       {
        "cat": "What's Next",
        "text": "At the 49ers Sunday, 4:25 p.m. ET on FOX",
-       "summary": "Seattle plays at Levi's Stadium on Sunday, Nov. 29 (1:25 p.m. PT), with the NFC West lead on the line against the 9-1 Niners. Watch whether Darnold protects the ball and how the offensive line holds up without Lucas.",
+       "summary": "Seattle then hosts Dallas on Monday, Dec. 7 at 8:15 p.m. ET on ESPN. Against San Francisco, watch the line with two starters out and whether the Seahawks pressure Mac Jones. Kickoff is 1:25 p.m. PT.",
        "source": {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com/nfl/seahawks/onsi/sam-darnold-injury-update-has-seahawks-keeping-49ers-in-the-dark"
+        "name": "Seahawks.com",
+        "url": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-at-49ers-in-week-12-on-sunday-november-29"
        }
       }
      ]
